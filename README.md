@@ -1,6 +1,6 @@
 # Implementando um Data Warehouse na nuvem com Amazon Redshift AWS!!
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/pand-eX/DataWarehouseOracle/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/pand-eX/DwNuvem/blob/main/LICENSE) 
 
 # Sobre o projeto
 
