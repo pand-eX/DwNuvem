@@ -5,6 +5,7 @@
 # Sobre o projeto
 
 -Seria possível montar um Data Warehouse para armazenamento e processamento de Petabytes de dados em apenas alguns cliques? 
+
 R: Sim! Com amazon Redshift.
 
 -Você viu o trabalho que foi montar um Data Warehouse on premises com Oracle. E olha que montamos um ambiente controlado um ambiente pequeno um ambiente em minha máquina Virtual.
