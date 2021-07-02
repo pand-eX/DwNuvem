@@ -10,7 +10,7 @@ R: Sim! Com amazon Redshift.
 
 -Você viu o trabalho que foi montar um Data Warehouse on premises com Oracle. E olha que montamos um ambiente controlado um ambiente pequeno um ambiente em minha máquina Virtual.
 
--Agora vamos para o ambiente em nuvem com alguns clicks teremos um Data Warehouse operacional com cluster com segurança e pronto para processar tetabytes de dados e um custo na maioria dos casos muito menor em relação na maioria dos casos com on premises ou seja não da para ignorar que cloud computing é a evolução da área de Tecnologia.
+-Agora vamos para o ambiente em nuvem com alguns clicks teremos um Data Warehouse operacional com cluster com segurança e pronto para processar tetabytes de dados e um custo na maioria dos casos muito menor em relação dos casos com on premises ou seja não da para ignorar que cloud computing é a evolução da área de Tecnologia.
 
 
 
