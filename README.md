@@ -28,7 +28,7 @@ Connect with me at [LinkedIn](https://www.linkedin.com/in/henrique-castro-484269
 
 https://docs.aws.amazon.com/pt_br/redshift/latest/dg/cm_chap_SQLCommandRef.html
 
-![1]
+![1](https://github.com/pand-eX/DwNuvem/blob/main/assets/1.png)
 
 
 ## Atenção!!!
@@ -42,7 +42,7 @@ Os scripts usados no projeto estão em anexo e em ordem!!!
 
 ## Conceito Básicos!
 
-![12]
+![12](https://github.com/pand-eX/DwNuvem/blob/main/assets/12.png)
 
 Um cluster do Amazon Redshift consiste em nós. Cada cluster tem um nó de liderança e um ou mais nós de computação. O nó de liderança recebe consultas de aplicativos cliente, analisa as consultas e desenvolve planos de execução de consulta. Em seguida, o nó principal coordena a execução paralela desses planos com os nós de computação e agrega os resultados intermediários desses nós. Então, ele retorna os resultados de volta para os aplicativos cliente. Nós de computação executam planos de execução de consultas e 
 transmitem dados entre si para atender essas consultas. Os resultados intermediários são enviados ao nó de liderança para agregação antes de serem enviados novamente para os aplicativos clientes.Quando você executa um cluster, uma opção que você especifica é o tipo de nó. O tipo de nó determina a CPU, RAM, capacidade de armazenamento e o tipo de unidade de armazenamento de cada nó. Os nós do tipo armazenamento denso (DS) são otimizados para armazenamento. Os nós do tipo computação densa (DC) são otimizados para computação. Você pode criar um cluster usando tipos de nós de armazenamento denso (DS) ou computação densa (DC). Os tipos de nós de armazenamento denso permitem criar data warehouses muito grandes usando discos rígidos (HDDs) por um preço bastante reduzido. Os tipos de nós de computação densa permitem criar data warehouses de altíssimo desempenho usando CPUs rápidas, grandes quantidades de RAM e discos de estado sólido (SSDs). Os nós do tipo DS2 são otimizados para grandes cargas de trabalho de dados e usam armazenamento com base em unidade de disco rígido (HDD). Os nós DC1 e DC2 são otimizados para cargas de trabalho de desempenho intensivo. Como eles usam armazenamento de disco de estadosólido (SSD), os tipos de nó DC1 e DC2 fornecem uma E/S muito mais rápida em comparação aos nós do tipo DS, mas fornecem menos espaço de armazenamento. Você executa clusters que usam
@@ -53,17 +53,8 @@ os tipos de nó DC2 em uma nuvem privada virtual (VPC). Você não pode executar
 dados
 • As necessidades de sistemas downstream que dependem dos resultados 
 dessas consultas e operações
-Os tipos de nó estão disponíveis em diferentes tamanhos. Os nós DS2 estão 
-disponíveis nos tamanhos xlarge e 8xlarge. Os nós DC2 estão disponíveis nos 
-tamanhos large e 8xlarge. O tamanho do nó e o número de nós determinam o 
-armazenamento total de um cluster.
-Alguns tipos de nó permitem um nó (single-node) ou dois ou mais nós (multinode). A quantidade mínima para clusters 8xlarge são dois nós. Em um cluster de 
-single-node, o nó é compartilhado para a funcionalidade principal e de 
-computação. Em um cluster de multi-node, o nó de liderança é separado dos nós 
-de computação.
-O Amazon Redshift aplica cotas aos recursos para cada conta da AWS em cada 
-região. Uma cota restringe o número de recursos que sua conta pode criar para 
-determinados tipos de recursos, como nós ou Snapshots, em uma região
+
+Os tipos de nó estão disponíveis em diferentes tamanhos. Os nós DS2 estão disponíveis nos tamanhos xlarge e 8xlarge. Os nós DC2 estão disponíveis nos tamanhos large e 8xlarge. O tamanho do nó e o número de nós determinam o armazenamento total de um cluster. Alguns tipos de nó permitem um nó (single-node) ou dois ou mais nós (multinode). A quantidade mínima para clusters 8xlarge são dois nós. Em um cluster de single-node, o nó é compartilhado para a funcionalidade principal e de computação. Em um cluster de multi-node, o nó de liderança é separado dos nós de computação.O Amazon Redshift aplica cotas aos recursos para cada conta da AWS em cada região. Uma cota restringe o número de recursos que sua conta pode criar para determinados tipos de recursos, como nós ou Snapshots, em uma região.
 
 ## Banco de dados no Cluster Amazon Redshift
 
@@ -83,12 +74,12 @@ Com relação à modelagem, os procedimentos são os mesmos independentemente da
 • Cloud Watch
 • IAM (Identity and Access Management)
 Destes 5 serviços, apenas o IAM não possui custo. Embora seja possível usar uma Default VPC (como você verá durante as próximas aulas), qualquer customização poderá gerar cobranças adicionais. Armazenamento com o S3 (para colocar os arquivos que serão carregados no DW), EIP (para ter um IP exclusivo) e Cloud Watch (para monitoramento e alarmes) não são obrigatórios em uma implementação do Amazon Redshift, mas podem ajudar colaboram para tornar a experiência em nuvem bem mais profissional. A arquitetura do DW na AWS, pode ainda ser dividida em duas etapas. Primeiro a arquitetura do Cluster Amazon Redshift (conforme imagem abaixo). O número de compute nodes determina o custo do cluster e deve ser avaliado com cuidado. 
-![13]
+![13](https://github.com/pand-eX/DwNuvem/blob/main/assets/13.png)
 
 
 Em segundo, a arquitetura de acesso ao Cluster Amazon Redshift, para que os usuários tenham acesso ao DW, conforme imagem abaixo:
 
-![14]
+![14](https://github.com/pand-eX/DwNuvem/blob/main/assets/14.png)
 
 Neste momento, outros serviços AWS devem ser considerados. O VPN Gateway permite criar uma conexão segura entre o escritório da empresa e o ambiente AWS, mas também é um serviço AWS com custo à parte do Redshift. É função do Engenheiro de Dados pensar na melhor arquitetura para o projeto, visando reduzir custos e otimizar a utilização de recursos. Embora seja possível usar o Redshift apenas por um período de tempo e pagar pelas horas deuso, nem todos os serviços seguem este mesmo padrão (não faz sentido gravar e apagar dados no S3 por exemplo, sendo o ideal usar suas funcionalidades de versionamento). Arquiteturas mais avançadas podem requerer o uso de serviços de mensageria, como o AWS SQS, que garante o funcionamento da aplicação mesmo em caso de queda do DW. O SQS (como você deve imaginar) também 
 possui custo adicional.
@@ -118,7 +109,7 @@ A segurança aparece aqui como desvantagem porque quando você tem um ambiente e
 
 Integração de dados se você vai montar o DW em nuvem depois como vou fazer para integrar esse meu DW com as aplicações analítica? Como vou carregar os dados? Como vou processar meu ETL? Tudo isso deve ser considerado mais uma vez precisa mudar o paradigma não da para você querer mudar para nuvem o mesmo processo que você tem on premises esse é um erro muito comum a empresa que reproduzir um ambiente em nuvem o que ela já faz internamente e localmente mas não é essa a abordagem o ambiente em nuvem é diferente não da para usar o mesmo tipo de processo lembrando que a Amazon já oferece um serviço de ETL e integração de dados...
 
-![2]
+![2](https://github.com/pand-eX/DwNuvem/blob/main/assets/2.png)
 
 ## Umas das tarefas mais desafiadora ao se trabalhar com AWS é a precificação vou sitar 3 razões principais que me leva a este desafio.
 
@@ -141,53 +132,53 @@ Quando você trabalha com ambiente na nuvem da Amazon com Aws você vai estar pa
 
 - Você tem vários blocos de dados distribuídos em vários nodes
 
-![3]
+![3](https://github.com/pand-eX/DwNuvem/blob/main/assets/3.png)
 
 A definição do estilo quem vai definir sou eu de acordo com o Esquema de DW que eu for implementar nesse projeto iremos usar o esquema snow flake no Oracle usamos o modelo Star Squema. Cada esquema vai ter um estilo e um comportamento diferente na hora de retorna os dados 
 
-![4]
+![4](https://github.com/pand-eX/DwNuvem/blob/main/assets/4.png)
 
 - Nós temos 3 estilos eles são:
 
-![5]
+![5](https://github.com/pand-eX/DwNuvem/blob/main/assets/5.png)
 
 - Não é possível mudar o estilo de distribuição depois que a tabela foi criada você TEM QUE FAZER ANTES DE COLOCAR OS DADOS 
 
 
 ## Armazenamento Orientado a Coluna e a Velocidade do Redshift
 
-![6]
+![6](https://github.com/pand-eX/DwNuvem/blob/main/assets/6.png)
 
 -linhas é o tradicional então precisamos mudar o paradigma o Amazon redshift usa o coluna!
 
-![7]
+![7](https://github.com/pand-eX/DwNuvem/blob/main/assets/7.png)
 
-![8]
+![8](https://github.com/pand-eX/DwNuvem/blob/main/assets/8.png)
 
 Algumas Característica do banco redshift 
 
 - CRUD( create, ready, update, delete) isso e de banco OLTP em um banco de dado OLTP não faz sentido usar um banco de dados orientado a coluna ai usamos SQLservice / Oracle ...
 
-![9]
+![9](https://github.com/pand-eX/DwNuvem/blob/main/assets/9.png)
 
 
 ## Compressão de dados
 
 - Por ser um banco de dados orientada a coluna possuí outra vantagem a compressão de dados(cada coluna de uma tabela em blocos diferente ao contrário do armazenamento baseado em linhas aonde eu tenho cada linha em um bloco ou é claro posso ter várias linhas no mesmo bloco mas enfim uma linha inteira ela pertence pelo menos um bloco na no banco de dados relacionado a coluna eu tenho uma Coluna pertencendo a um bloco sendo assim quando você precisa operação de agregação, simurização em uma única coluna você pega aquela coluna e carrega na memória o engine do amazona redshift carrega apenas a coluna que você vai fazer a operação na memória isso com certeza acelera o tempo de consulta pq eu não preciso carregar colunas que não está sendo usada naquela consulta essa é a principal vantagem 
 
-![10]
+![10](https://github.com/pand-eX/DwNuvem/blob/main/assets/10.png)
 
 -Se analisarmos apenas uma coluna ela são do mesmo tipo seja qual for flot, inteiro são valores numéricos, mas sempre do mesmo tipo de dados. Eu vou ter uma coluna inteira em um bloco que são dados do mesmo Tipo logo a compressão ela será muito mais eficiente Amazon Redshift vai conseguir comprimir esses dados reduzindo os espaços de armazenamento e que claro traz vantagem significativa que e também na hora de você fazer consulta.
 
-![11]
+![11](https://github.com/pand-eX/DwNuvem/blob/main/assets/11.png)
 
 
 ## Resultado final
-![15]
+![15](https://github.com/pand-eX/DwNuvem/blob/main/assets/15.png)
 
 - isso aqui é o trabalho final o PowerBI acabou de executar uma query direto no Amazon Redshift na nuvem e pronto apartir de agora é trabalho do usuario final coletar os insights criar as visualizações e com isso tomar as decisões. É simples o processo o Amazon Redshift fornece  realmente um poder muito grande elimina boa parte daquele trabalho manual que você tem de preparar todo o ambiente Clouding Computer é claramente o futuro.
 - No Amazon Redshift é possivel chegar algumas informações e mostrar a query e o tempo de resposta que o Powerbi levou para retornar os dados para o usuario final. Tem também o plano de execução e os graficos de performance. 
 
-![16]
+![16](https://github.com/pand-eX/DwNuvem/blob/main/assets/16.png)
 
 
