@@ -69,10 +69,15 @@ Configurar um Data Warehouse requer duas grandes etapas de trabalho:
 Com relação à modelagem, os procedimentos são os mesmos independentemente da implementação on-premise ou em nuvem. Todas as etapas como definição do problema de negócio, business case, especificação, modelagem lógica, dimensional e física, seguem os mesmos padrões uma vez que estamos tratando do design do DW. Já com relação à infraestrutura, as diferenças entre implementação onpremise e em nuvem são grandes, pois se trata de “mundos” diferentes com abordagens e custos diferentes. A escolha por uma opção ou outra, depende de diversos fatores e uma escolha profissional requer uma avaliação 360 graus. Em uma implementação de DW em nuvem, a arquitetura envolve fatores além do serviço em nuvem sendo utilizado (Amazon Redshift em nosso caso), pois precisamos definir níveis de acesso e segurança, armazenamento, backup, integração, ETL, custos de transferência de dados, largura de banda para acesso aos serviços em nuvem, etc... Tudo isso deve ser levado em consideração para que o custo de uma implementação em nuvem justifique sua utilização.Embora existam outras opções, podemos falar especificamente da AWS, uma vez que estamos usando este serviço aqui em nosso projeto. Além do Amazon Redshift, uma implementação de DW em nuvem (normalmente) requer o uso de outros serviços AWS, tais como:
 
 • S3 (Simple Storage Service)
+
 • VPC (Virtual Private Cloud)
+
 • EIP (Elastic IP)
+
 • Cloud Watch
+
 • IAM (Identity and Access Management)
+
 Destes 5 serviços, apenas o IAM não possui custo. Embora seja possível usar uma Default VPC (como você verá durante as próximas aulas), qualquer customização poderá gerar cobranças adicionais. Armazenamento com o S3 (para colocar os arquivos que serão carregados no DW), EIP (para ter um IP exclusivo) e Cloud Watch (para monitoramento e alarmes) não são obrigatórios em uma implementação do Amazon Redshift, mas podem ajudar colaboram para tornar a experiência em nuvem bem mais profissional. A arquitetura do DW na AWS, pode ainda ser dividida em duas etapas. Primeiro a arquitetura do Cluster Amazon Redshift (conforme imagem abaixo). O número de compute nodes determina o custo do cluster e deve ser avaliado com cuidado. 
 ![13](https://github.com/pand-eX/DwNuvem/blob/main/assets/13.png)
 
@@ -87,19 +92,30 @@ possui custo adicional.
 ## Principais benefícios de um Data Warehouse em Nuvem:
 
 -Ambiente descentralizado
+
 -Sem custo de infraestrutura
+
 -TCO(custo total de propriedade) reduzido
+
 -Escalabilidade para Petabytes de dados
+
 -Segurança
+
 -Acesso via internet de qualquer local
+
 -Gestão Simplificada
+
 
 ## Principais desvantagens de um Data Warehouse em Nuvem:
 
 -Falta de flexibilidade
+
 -Dados sensíveis estão sob a gestão de terceiros(Amazon ou Microsoft etc...)
+
 -Segurança(Repare que seguranças está na vantagem e desvantagem irei explicar em detalhes)
+
 -Integração de dados.
+
 
 No ambiente on premises você configura tudo você consegue montar um ambiente conforme a necessidade da empresa no ambiente em nuvem você não configura nada de infraestrutura você sequer tem acesso ao SO(sistema operacional) mas você precisa mudar o paradigma se você realmente precisa mudar alguma coisa do SO se você precisa mudar algum parâmetro do banco de dados o que já é oferecido em nuvem não é o suficiente? A empresa tem que responder isso a fim de tomar sua decisão de levar seu DW para nuvem.
 
