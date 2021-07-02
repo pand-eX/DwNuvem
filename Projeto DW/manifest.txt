@@ -1,0 +1,9 @@
+
+{
+	"entries": [
+		{"url":"s3://awsdwpandex/vendas1.txt.gz", "mandatory":true},
+		{"url":"s3://awsdwpandex/vendas2.txt.gz", "mandatory":true},
+		{"url":"s3://awsdwpandex/vendas3.txt.gz", "mandatory":true},
+		{"url":"s3://awsdwpandex/vendas4.txt.gz", "mandatory":true}
+	]
+}

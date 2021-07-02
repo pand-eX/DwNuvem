@@ -1,0 +1,606 @@
+1,AR-5381,,,,Widget AR-5381,,0,A,1000,750,,,A,,0,,,,,WGT-X -AR-5381,Widget specification AR-5381,,,Current
+2,BA-8327,,,,Widget BA-8327,,0,A,1000,750,,,A,,0,,,,,WGT-X -BA-8327,Widget specification BA-8327,,,Current
+3,BE-2349,,,,Widget BE-2349,,0,A,800,600,,,A,,1,,,,,WGT-X -BE-2349,Widget specification BE-2349,,,Current
+4,BE-2908,,,,Widget BE-2908,,0,A,800,600,,,A,,0,,,,,WGT-X -BE-2908,Widget specification BE-2908,,,Current
+5,BL-2036,,,,Widget BL-2036,,0,A,800,600,,,A,,1,,,,,WGT-X -BL-2036,Widget specification BL-2036,,,Current
+6,CA-5965,,,,Widget CA-5965,,0,Black,500,375,,,A,,0,,,L ,,WGT-X -CA-5965,Widget specification CA-5965,,,Current
+7,CA-6738,,,,Widget CA-6738,,0,Black,500,375,,,A,,0,,,M ,,WGT-X -CA-6738,Widget specification CA-6738,,,Current
+8,CA-7457,,,,Widget CA-7457,,0,Black,500,375,,,A,,0,,,,,WGT-X -CA-7457,Widget specification CA-7457,,,Current
+9,CB-2903,,,,Widget CB-2903,,0,Silver,1000,750,,,A,,0,,,,,WGT-X -CB-2903,Widget specification CB-2903,,,Current
+10,CN-6137,,,,Widget CN-6137,,0,Silver,1000,750,,,A,,0,,,,,WGT-X -CN-6137,Widget specification CN-6137,,,Current
+11,CR-7833,,,,Widget CR-7833,,0,Black,1000,750,,,A,,0,,,,,WGT-X -CR-7833,Widget specification CR-7833,,,Current
+12,CR-9981,,,,Widget CR-9981,,0,A,1000,750,,,A,,0,,,,,WGT-X -CR-9981,Widget specification CR-9981,,,Current
+13,CS-2812,,,,Widget CS-2812,,0,A,1000,750,,,A,,1,,,,,WGT-X -CS-2812,Widget specification CS-2812,,,Current
+14,DC-8732,,,,Widget DC-8732,,0,A,1000,750,,,A,,0,,,,,WGT-X -DC-8732,Widget specification DC-8732,,,Current
+15,DC-9824,,,,Widget DC-9824,,0,A,1000,750,,,A,,0,,,,,WGT-X -DC-9824,Widget specification DC-9824,,,Current
+16,DT-2377,,,,Widget DT-2377,,0,A,800,600,,,A,,1,,,,,WGT-X -DT-2377,Widget specification DT-2377,,,Current
+17,EC-M092,,,,Widget EC-M092,,0,A,1000,750,,,A,,1,,,,,WGT-X -EC-M092,Widget specification EC-M092,,,Current
+18,EC-R098,,,,Widget EC-R098,,0,A,1000,750,,,A,,1,,,,,WGT-X -EC-R098,Widget specification EC-R098,,,Current
+19,EC-T209,,,,Widget EC-T209,,0,A,1000,750,,,A,,1,,,,,WGT-X -EC-T209,Widget specification EC-T209,,,Current
+20,FE-3760,,,,Widget FE-3760,,0,A,800,600,,,A,,1,,,,,WGT-X -FE-3760,Widget specification FE-3760,,,Current
+21,FH-2981,,,,Widget FH-2981,,0,Silver,500,375,,,A,,0,,,,,WGT-X -FH-2981,Widget specification FH-2981,,,Current
+22,FW-1000,,,,Widget FW-1000,,0,A,1000,750,,,A,,0,,,,,WGT-X -FW-1000,Widget specification FW-1000,,,Current
+23,FW-1200,,,,Widget FW-1200,,0,A,1000,750,,,A,,0,,,,,WGT-X -FW-1200,Widget specification FW-1200,,,Current
+24,FW-1400,,,,Widget FW-1400,,0,A,1000,750,,,A,,0,,,,,WGT-X -FW-1400,Widget specification FW-1400,,,Current
+25,FW-3400,,,,Widget FW-3400,,0,A,1000,750,,,A,,0,,,,,WGT-X -FW-3400,Widget specification FW-3400,,,Current
+26,FW-3800,,,,Widget FW-3800,,0,A,1000,750,,,A,,0,,,,,WGT-X -FW-3800,Widget specification FW-3800,,,Current
+27,FW-5160,,,,Widget FW-5160,,0,A,1000,750,,,A,,0,,,,,WGT-X -FW-5160,Widget specification FW-5160,,,Current
+28,FW-5800,,,,Widget FW-5800,,0,A,1000,750,,,A,,0,,,,,WGT-X -FW-5800,Widget specification FW-5800,,,Current
+29,FW-7160,,,,Widget FW-7160,,0,A,1000,750,,,A,,0,,,,,WGT-X -FW-7160,Widget specification FW-7160,,,Current
+30,FW-9160,,,,Widget FW-9160,,0,A,1000,750,,,A,,0,,,,,WGT-X -FW-9160,Widget specification FW-9160,,,Current
+31,FC-3654,,,,Widget FC-3654,,0,A,800,600,,,A,,1,,,,,WGT-X -FC-3654,Widget specification FC-3654,,,Current
+32,FC-3982,,,,Widget FC-3982,,0,Silver,800,600,,,A,,0,,,,,WGT-X -FC-3982,Widget specification FC-3982,,,Current
+33,FL-2301,,,,Widget FL-2301,,0,Silver,800,600,,,A,,0,,,,,WGT-X -FL-2301,Widget specification FL-2301,,,Current
+34,GP-0982,,,,Widget GP-0982,,0,A,800,600,,,A,,0,,,,,WGT-X -GP-0982,Widget specification GP-0982,,,Current
+35,GT-0820,,,,Widget GT-0820,,0,A,800,600,,,A,,0,,,L ,,WGT-X -GT-0820,Widget specification GT-0820,,,Current
+36,GT-1209,,,,Widget GT-1209,,0,A,800,600,,,A,,0,,,M ,,WGT-X -GT-1209,Widget specification GT-1209,,,Current
+37,GT-2908,,,,Widget GT-2908,,0,A,800,600,,,A,,0,,,,,WGT-X -GT-2908,Widget specification GT-2908,,,Current
+38,HJ-1213,,,,Widget HJ-1213,,0,A,1000,750,,,A,,0,,,,,WGT-X -HJ-1213,Widget specification HJ-1213,,,Current
+39,HJ-1220,,,,Widget HJ-1220,,0,A,1000,750,,,A,,0,,,,,WGT-X -HJ-1220,Widget specification HJ-1220,,,Current
+40,HJ-1420,,,,Widget HJ-1420,,0,A,1000,750,,,A,,0,,,,,WGT-X -HJ-1420,Widget specification HJ-1420,,,Current
+41,HJ-1428,,,,Widget HJ-1428,,0,A,1000,750,,,A,,0,,,,,WGT-X -HJ-1428,Widget specification HJ-1428,,,Current
+42,HJ-3410,,,,Widget HJ-3410,,0,A,1000,750,,,A,,0,,,,,WGT-X -HJ-3410,Widget specification HJ-3410,,,Current
+43,HJ-3416,,,,Widget HJ-3416,,0,A,1000,750,,,A,,0,,,,,WGT-X -HJ-3416,Widget specification HJ-3416,,,Current
+44,HJ-3816,,,,Widget HJ-3816,,0,A,1000,750,,,A,,0,,,,,WGT-X -HJ-3816,Widget specification HJ-3816,,,Current
+45,HJ-3824,,,,Widget HJ-3824,,0,A,1000,750,,,A,,0,,,,,WGT-X -HJ-3824,Widget specification HJ-3824,,,Current
+46,HJ-5161,,,,Widget HJ-5161,,0,A,1000,750,,,A,,0,,,,,WGT-X -HJ-5161,Widget specification HJ-5161,,,Current
+47,HJ-5162,,,,Widget HJ-5162,,0,A,1000,750,,,A,,0,,,,,WGT-X -HJ-5162,Widget specification HJ-5162,,,Current
+48,HJ-5811,,,,Widget HJ-5811,,0,A,1000,750,,,A,,0,,,,,WGT-X -HJ-5811,Widget specification HJ-5811,,,Current
+49,HJ-5818,,,,Widget HJ-5818,,0,A,1000,750,,,A,,0,,,,,WGT-X -HJ-5818,Widget specification HJ-5818,,,Current
+50,HJ-7161,,,,Widget HJ-7161,,0,A,1000,750,,,A,,0,,,,,WGT-X -HJ-7161,Widget specification HJ-7161,,,Current
+51,HJ-7162,,,,Widget HJ-7162,,0,A,1000,750,,,A,,0,,,,,WGT-X -HJ-7162,Widget specification HJ-7162,,,Current
+52,HJ-9080,,,,Widget HJ-9080,,0,A,1000,750,,,A,,0,,,,,WGT-X -HJ-9080,Widget specification HJ-9080,,,Current
+53,HJ-9161,,,,Widget HJ-9161,,0,A,1000,750,,,A,,0,,,,,WGT-X -HJ-9161,Widget specification HJ-9161,,,Current
+54,HN-1024,,,,Widget HN-1024,,0,A,1000,750,,,A,,0,,,,,WGT-X -HN-1024,Widget specification HN-1024,,,Current
+55,HN-1032,,,,Widget HN-1032,,0,A,1000,750,,,A,,0,,,,,WGT-X -HN-1032,Widget specification HN-1032,,,Current
+56,HN-1213,,,,Widget HN-1213,,0,A,1000,750,,,A,,0,,,,,WGT-X -HN-1213,Widget specification HN-1213,,,Current
+57,HN-1220,,,,Widget HN-1220,,0,A,1000,750,,,A,,0,,,,,WGT-X -HN-1220,Widget specification HN-1220,,,Current
+58,HN-1224,,,,Widget HN-1224,,0,A,1000,750,,,A,,0,,,,,WGT-X -HN-1224,Widget specification HN-1224,,,Current
+59,HN-1420,,,,Widget HN-1420,,0,A,1000,750,,,A,,0,,,,,WGT-X -HN-1420,Widget specification HN-1420,,,Current
+60,HN-1428,,,,Widget HN-1428,,0,A,1000,750,,,A,,0,,,,,WGT-X -HN-1428,Widget specification HN-1428,,,Current
+61,HN-3410,,,,Widget HN-3410,,0,A,1000,750,,,A,,0,,,,,WGT-X -HN-3410,Widget specification HN-3410,,,Current
+62,HN-3416,,,,Widget HN-3416,,0,A,1000,750,,,A,,0,,,,,WGT-X -HN-3416,Widget specification HN-3416,,,Current
+63,HN-3816,,,,Widget HN-3816,,0,A,1000,750,,,A,,0,,,,,WGT-X -HN-3816,Widget specification HN-3816,,,Current
+64,HN-3824,,,,Widget HN-3824,,0,A,1000,750,,,A,,0,,,,,WGT-X -HN-3824,Widget specification HN-3824,,,Current
+65,HN-4402,,,,Widget HN-4402,,0,A,1000,750,,,A,,0,,,,,WGT-X -HN-4402,Widget specification HN-4402,,,Current
+66,HN-5161,,,,Widget HN-5161,,0,A,1000,750,,,A,,0,,,,,WGT-X -HN-5161,Widget specification HN-5161,,,Current
+67,HN-5162,,,,Widget HN-5162,,0,A,1000,750,,,A,,0,,,,,WGT-X -HN-5162,Widget specification HN-5162,,,Current
+68,HN-5400,,,,Widget HN-5400,,0,A,1000,750,,,A,,0,,,,,WGT-X -HN-5400,Widget specification HN-5400,,,Current
+69,HN-5811,,,,Widget HN-5811,,0,A,1000,750,,,A,,0,,,,,WGT-X -HN-5811,Widget specification HN-5811,,,Current
+70,HN-5818,,,,Widget HN-5818,,0,A,1000,750,,,A,,0,,,,,WGT-X -HN-5818,Widget specification HN-5818,,,Current
+71,HN-6320,,,,Widget HN-6320,,0,A,1000,750,,,A,,0,,,,,WGT-X -HN-6320,Widget specification HN-6320,,,Current
+72,HN-7161,,,,Widget HN-7161,,0,A,1000,750,,,A,,0,,,,,WGT-X -HN-7161,Widget specification HN-7161,,,Current
+73,HN-7162,,,,Widget HN-7162,,0,A,1000,750,,,A,,0,,,,,WGT-X -HN-7162,Widget specification HN-7162,,,Current
+74,HN-8320,,,,Widget HN-8320,,0,A,1000,750,,,A,,0,,,,,WGT-X -HN-8320,Widget specification HN-8320,,,Current
+75,HN-9161,,,,Widget HN-9161,,0,A,1000,750,,,A,,0,,,,,WGT-X -HN-9161,Widget specification HN-9161,,,Current
+76,HN-9168,,,,Widget HN-9168,,0,A,1000,750,,,A,,0,,,,,WGT-X -HN-9168,Widget specification HN-9168,,,Current
+77,HT-2981,,,,Widget HT-2981,,0,A,800,600,,,A,,1,,,,,WGT-X -HT-2981,Widget specification HT-2981,,,Current
+78,HT-8019,,,,Widget HT-8019,,0,A,800,600,,,A,,1,,,,,WGT-X -HT-8019,Widget specification HT-8019,,,Current
+79,HU-6280,,,,Widget HU-6280,,0,A,500,375,,,A,,1,,,L ,,WGT-X -HU-6280,Widget specification HU-6280,,,Current
+80,HU-8998,,,,Widget HU-8998,,0,A,500,375,,,A,,1,,,,,WGT-X -HU-8998,Widget specification HU-8998,,,Current
+81,KW-4091,,,,Widget KW-4091,,0,A,1000,750,,,A,,0,,,,,WGT-X -KW-4091,Widget specification KW-4091,,,Current
+82,LE-1000,,,,Widget LE-1000,,0,A,1000,750,,,A,,0,,,,,WGT-X -LE-1000,Widget specification LE-1000,,,Current
+83,LE-1200,,,,Widget LE-1200,,0,A,1000,750,,,A,,0,,,,,WGT-X -LE-1200,Widget specification LE-1200,,,Current
+84,LE-1201,,,,Widget LE-1201,,0,A,1000,750,,,A,,0,,,,,WGT-X -LE-1201,Widget specification LE-1201,,,Current
+85,LE-1400,,,,Widget LE-1400,,0,A,1000,750,,,A,,0,,,,,WGT-X -LE-1400,Widget specification LE-1400,,,Current
+86,LE-3800,,,,Widget LE-3800,,0,A,1000,750,,,A,,0,,,,,WGT-X -LE-3800,Widget specification LE-3800,,,Current
+87,LE-5160,,,,Widget LE-5160,,0,A,1000,750,,,A,,0,,,,,WGT-X -LE-5160,Widget specification LE-5160,,,Current
+88,LE-6000,,,,Widget LE-6000,,0,A,1000,750,,,A,,0,,,,,WGT-X -LE-6000,Widget specification LE-6000,,,Current
+89,LE-7160,,,,Widget LE-7160,,0,A,1000,750,,,A,,0,,,,,WGT-X -LE-7160,Widget specification LE-7160,,,Current
+90,LE-8000,,,,Widget LE-8000,,0,A,1000,750,,,A,,0,,,,,WGT-X -LE-8000,Widget specification LE-8000,,,Current
+91,LI-1000,,,,Widget LI-1000,,0,A,1000,750,,,A,,0,,,,,WGT-X -LI-1000,Widget specification LI-1000,,,Current
+92,LI-1200,,,,Widget LI-1200,,0,A,1000,750,,,A,,0,,,,,WGT-X -LI-1200,Widget specification LI-1200,,,Current
+93,LI-1201,,,,Widget LI-1201,,0,A,1000,750,,,A,,0,,,,,WGT-X -LI-1201,Widget specification LI-1201,,,Current
+94,LI-1400,,,,Widget LI-1400,,0,A,1000,750,,,A,,0,,,,,WGT-X -LI-1400,Widget specification LI-1400,,,Current
+95,LI-3800,,,,Widget LI-3800,,0,A,1000,750,,,A,,0,,,,,WGT-X -LI-3800,Widget specification LI-3800,,,Current
+96,LI-5160,,,,Widget LI-5160,,0,A,1000,750,,,A,,0,,,,,WGT-X -LI-5160,Widget specification LI-5160,,,Current
+97,LI-5800,,,,Widget LI-5800,,0,A,1000,750,,,A,,0,,,,,WGT-X -LI-5800,Widget specification LI-5800,,,Current
+98,LI-6000,,,,Widget LI-6000,,0,A,1000,750,,,A,,0,,,,,WGT-X -LI-6000,Widget specification LI-6000,,,Current
+99,LI-7160,,,,Widget LI-7160,,0,A,1000,750,,,A,,0,,,,,WGT-X -LI-7160,Widget specification LI-7160,,,Current
+100,LI-8000,,,,Widget LI-8000,,0,A,1000,750,,,A,,0,,,,,WGT-X -LI-8000,Widget specification LI-8000,,,Current
+101,LJ-1213,,,,Widget LJ-1213,,0,A,1000,750,,,A,,0,,,,,WGT-X -LJ-1213,Widget specification LJ-1213,,,Current
+102,LJ-1220,,,,Widget LJ-1220,,0,A,1000,750,,,A,,0,,,,,WGT-X -LJ-1220,Widget specification LJ-1220,,,Current
+103,LJ-1420,,,,Widget LJ-1420,,0,A,1000,750,,,A,,0,,,,,WGT-X -LJ-1420,Widget specification LJ-1420,,,Current
+104,LJ-1428,,,,Widget LJ-1428,,0,A,1000,750,,,A,,0,,,,,WGT-X -LJ-1428,Widget specification LJ-1428,,,Current
+105,LJ-3410,,,,Widget LJ-3410,,0,A,1000,750,,,A,,0,,,,,WGT-X -LJ-3410,Widget specification LJ-3410,,,Current
+106,LJ-3416,,,,Widget LJ-3416,,0,A,1000,750,,,A,,0,,,,,WGT-X -LJ-3416,Widget specification LJ-3416,,,Current
+107,LJ-3816,,,,Widget LJ-3816,,0,A,1000,750,,,A,,0,,,,,WGT-X -LJ-3816,Widget specification LJ-3816,,,Current
+108,LJ-3824,,,,Widget LJ-3824,,0,A,1000,750,,,A,,0,,,,,WGT-X -LJ-3824,Widget specification LJ-3824,,,Current
+109,LJ-5161,,,,Widget LJ-5161,,0,A,1000,750,,,A,,0,,,,,WGT-X -LJ-5161,Widget specification LJ-5161,,,Current
+110,LJ-5162,,,,Widget LJ-5162,,0,A,1000,750,,,A,,0,,,,,WGT-X -LJ-5162,Widget specification LJ-5162,,,Current
+111,LJ-5811,,,,Widget LJ-5811,,0,A,1000,750,,,A,,0,,,,,WGT-X -LJ-5811,Widget specification LJ-5811,,,Current
+112,LJ-5818,,,,Widget LJ-5818,,0,A,1000,750,,,A,,0,,,,,WGT-X -LJ-5818,Widget specification LJ-5818,,,Current
+113,LJ-7161,,,,Widget LJ-7161,,0,A,1000,750,,,A,,0,,,,,WGT-X -LJ-7161,Widget specification LJ-7161,,,Current
+114,LJ-7162,,,,Widget LJ-7162,,0,A,1000,750,,,A,,0,,,,,WGT-X -LJ-7162,Widget specification LJ-7162,,,Current
+115,LJ-9080,,,,Widget LJ-9080,,0,A,1000,750,,,A,,0,,,,,WGT-X -LJ-9080,Widget specification LJ-9080,,,Current
+116,LJ-9161,,,,Widget LJ-9161,,0,A,1000,750,,,A,,0,,,,,WGT-X -LJ-9161,Widget specification LJ-9161,,,Current
+117,LN-1024,,,,Widget LN-1024,,0,A,1000,750,,,A,,0,,,,,WGT-X -LN-1024,Widget specification LN-1024,,,Current
+118,LN-1032,,,,Widget LN-1032,,0,A,1000,750,,,A,,0,,,,,WGT-X -LN-1032,Widget specification LN-1032,,,Current
+119,LN-1213,,,,Widget LN-1213,,0,A,1000,750,,,A,,0,,,,,WGT-X -LN-1213,Widget specification LN-1213,,,Current
+120,LN-1220,,,,Widget LN-1220,,0,A,1000,750,,,A,,0,,,,,WGT-X -LN-1220,Widget specification LN-1220,,,Current
+121,LN-1224,,,,Widget LN-1224,,0,A,1000,750,,,A,,0,,,,,WGT-X -LN-1224,Widget specification LN-1224,,,Current
+122,LN-1420,,,,Widget LN-1420,,0,A,1000,750,,,A,,0,,,,,WGT-X -LN-1420,Widget specification LN-1420,,,Current
+123,LN-1428,,,,Widget LN-1428,,0,A,1000,750,,,A,,0,,,,,WGT-X -LN-1428,Widget specification LN-1428,,,Current
+124,LN-3410,,,,Widget LN-3410,,0,A,1000,750,,,A,,0,,,,,WGT-X -LN-3410,Widget specification LN-3410,,,Current
+125,LN-3416,,,,Widget LN-3416,,0,A,1000,750,,,A,,0,,,,,WGT-X -LN-3416,Widget specification LN-3416,,,Current
+126,LN-3816,,,,Widget LN-3816,,0,A,1000,750,,,A,,0,,,,,WGT-X -LN-3816,Widget specification LN-3816,,,Current
+127,LN-3824,,,,Widget LN-3824,,0,A,1000,750,,,A,,0,,,,,WGT-X -LN-3824,Widget specification LN-3824,,,Current
+128,LN-4400,,,,Widget LN-4400,,0,A,1000,750,,,A,,0,,,,,WGT-X -LN-4400,Widget specification LN-4400,,,Current
+129,LN-5161,,,,Widget LN-5161,,0,A,1000,750,,,A,,0,,,,,WGT-X -LN-5161,Widget specification LN-5161,,,Current
+130,LN-5162,,,,Widget LN-5162,,0,A,1000,750,,,A,,0,,,,,WGT-X -LN-5162,Widget specification LN-5162,,,Current
+131,LN-5400,,,,Widget LN-5400,,0,A,1000,750,,,A,,0,,,,,WGT-X -LN-5400,Widget specification LN-5400,,,Current
+132,LN-5811,,,,Widget LN-5811,,0,A,1000,750,,,A,,0,,,,,WGT-X -LN-5811,Widget specification LN-5811,,,Current
+133,LN-5818,,,,Widget LN-5818,,0,A,1000,750,,,A,,0,,,,,WGT-X -LN-5818,Widget specification LN-5818,,,Current
+134,LN-6320,,,,Widget LN-6320,,0,A,1000,750,,,A,,0,,,,,WGT-X -LN-6320,Widget specification LN-6320,,,Current
+135,LN-7161,,,,Widget LN-7161,,0,A,1000,750,,,A,,0,,,,,WGT-X -LN-7161,Widget specification LN-7161,,,Current
+136,LN-7162,,,,Widget LN-7162,,0,A,1000,750,,,A,,0,,,,,WGT-X -LN-7162,Widget specification LN-7162,,,Current
+137,LN-8320,,,,Widget LN-8320,,0,A,1000,750,,,A,,0,,,,,WGT-X -LN-8320,Widget specification LN-8320,,,Current
+138,LN-9080,,,,Widget LN-9080,,0,A,1000,750,,,A,,0,,,,,WGT-X -LN-9080,Widget specification LN-9080,,,Current
+139,LN-9161,,,,Widget LN-9161,,0,A,1000,750,,,A,,0,,,,,WGT-X -LN-9161,Widget specification LN-9161,,,Current
+140,LR-2398,,,,Widget LR-2398,,0,Silver,1000,750,,,A,,0,,,,,WGT-X -LR-2398,Widget specification LR-2398,,,Current
+141,LR-8520,,,,Widget LR-8520,,0,A,1000,750,,,A,,0,,,,,WGT-X -LR-8520,Widget specification LR-8520,,,Current
+142,LW-1000,,,,Widget LW-1000,,0,A,1000,750,,,A,,0,,,,,WGT-X -LW-1000,Widget specification LW-1000,,,Current
+143,LW-1200,,,,Widget LW-1200,,0,A,1000,750,,,A,,0,,,,,WGT-X -LW-1200,Widget specification LW-1200,,,Current
+144,LW-1201,,,,Widget LW-1201,,0,A,1000,750,,,A,,0,,,,,WGT-X -LW-1201,Widget specification LW-1201,,,Current
+145,LW-1400,,,,Widget LW-1400,,0,A,1000,750,,,A,,0,,,,,WGT-X -LW-1400,Widget specification LW-1400,,,Current
+146,LW-3400,,,,Widget LW-3400,,0,A,1000,750,,,A,,0,,,,,WGT-X -LW-3400,Widget specification LW-3400,,,Current
+147,LW-3800,,,,Widget LW-3800,,0,A,1000,750,,,A,,0,,,,,WGT-X -LW-3800,Widget specification LW-3800,,,Current
+148,LW-4000,,,,Widget LW-4000,,0,A,1000,750,,,A,,0,,,,,WGT-X -LW-4000,Widget specification LW-4000,,,Current
+149,LW-5160,,,,Widget LW-5160,,0,A,1000,750,,,A,,0,,,,,WGT-X -LW-5160,Widget specification LW-5160,,,Current
+150,LW-5800,,,,Widget LW-5800,,0,A,1000,750,,,A,,0,,,,,WGT-X -LW-5800,Widget specification LW-5800,,,Current
+151,LW-6000,,,,Widget LW-6000,,0,A,1000,750,,,A,,0,,,,,WGT-X -LW-6000,Widget specification LW-6000,,,Current
+152,LW-7160,,,,Widget LW-7160,,0,A,1000,750,,,A,,0,,,,,WGT-X -LW-7160,Widget specification LW-7160,,,Current
+153,LW-8000,,,,Widget LW-8000,,0,A,1000,750,,,A,,0,,,,,WGT-X -LW-8000,Widget specification LW-8000,,,Current
+154,LW-9160,,,,Widget LW-9160,,0,A,1000,750,,,A,,0,,,,,WGT-X -LW-9160,Widget specification LW-9160,,,Current
+155,MA-7075,,,,Widget MA-7075,,0,A,1000,750,,,A,,0,,,,,WGT-X -MA-7075,Widget specification MA-7075,,,Current
+156,MB-2024,,,,Widget MB-2024,,0,A,1000,750,,,A,,0,,,,,WGT-X -MB-2024,Widget specification MB-2024,,,Current
+157,MB-6061,,,,Widget MB-6061,,0,A,1000,750,,,A,,0,,,,,WGT-X -MB-6061,Widget specification MB-6061,,,Current
+158,MP-2066,,,,Widget MP-2066,,0,A,1000,750,,,A,,0,,,,,WGT-X -MP-2066,Widget specification MP-2066,,,Current
+159,MP-2503,,,,Widget MP-2503,,0,A,1000,750,,,A,,0,,,,,WGT-X -MP-2503,Widget specification MP-2503,,,Current
+160,MP-4960,,,,Widget MP-4960,,0,A,1000,750,,,A,,0,,,,,WGT-X -MP-4960,Widget specification MP-4960,,,Current
+161,MS-0253,,,,Widget MS-0253,,0,A,1000,750,,,A,,0,,,,,WGT-X -MS-0253,Widget specification MS-0253,,,Current
+162,MS-1256,,,,Widget MS-1256,,0,A,1000,750,,,A,,0,,,,,WGT-X -MS-1256,Widget specification MS-1256,,,Current
+163,MS-1981,,,,Widget MS-1981,,0,A,1000,750,,,A,,0,,,,,WGT-X -MS-1981,Widget specification MS-1981,,,Current
+164,MS-2259,,,,Widget MS-2259,,0,A,1000,750,,,A,,0,,,,,WGT-X -MS-2259,Widget specification MS-2259,,,Current
+165,MS-2341,,,,Widget MS-2341,,0,A,1000,750,,,A,,0,,,,,WGT-X -MS-2341,Widget specification MS-2341,,,Current
+166,MS-2348,,,,Widget MS-2348,,0,A,1000,750,,,A,,0,,,,,WGT-X -MS-2348,Widget specification MS-2348,,,Current
+167,MS-6061,,,,Widget MS-6061,,0,A,1000,750,,,A,,0,,,,,WGT-X -MS-6061,Widget specification MS-6061,,,Current
+168,MT-1000,,,,Widget MT-1000,,0,A,1000,750,,,A,,0,,,,,WGT-X -MT-1000,Widget specification MT-1000,,,Current
+169,I-4127,,,,Widget NI-4127,,0,A,1000,750,,,A,,0,,,L ,,WGT-X -NI-4127,Widget specification NI-4127,,,Current
+170,I-9522,,,,Widget NI-9522,,0,A,1000,750,,,A,,0,,,,,WGT-X -NI-9522,Widget specification NI-9522,,,Current
+171,PA-187B,,,,Widget PA-187B,,0,A,60,45,,,A,,0,,,,,WGT-X -PA-187B,Widget specification PA-187B,,,Current
+172,PA-361R,,,,Widget PA-361R,,0,A,60,45,,,A,,0,,,,,WGT-X -PA-361R,Widget specification PA-361R,,,Current
+173,PA-529S,,,,Widget PA-529S,,0,A,60,45,,,A,,0,,,,,WGT-X -PA-529S,Widget specification PA-529S,,,Current
+174,PA-632U,,,,Widget PA-632U,,0,A,60,45,,,A,,0,,,,,WGT-X -PA-632U,Widget specification PA-632U,,,Current
+175,PA-823Y,,,,Widget PA-823Y,,0,A,60,45,,,A,,0,,,,,WGT-X -PA-823Y,Widget specification PA-823Y,,,Current
+176,PB-6109,,,,Widget PB-6109,,0,A,1000,750,,,A,,0,,,,,WGT-X -PB-6109,Widget specification PB-6109,,,Current
+177,RA-2345,,,,Widget RA-2345,,0,A,1000,750,,,A,,0,,,,,WGT-X -RA-2345,Widget specification RA-2345,,,Current
+178,RA-7490,,,,Widget RA-7490,,0,A,1000,750,,,A,,0,,,,,WGT-X -RA-7490,Widget specification RA-7490,,,Current
+179,RF-9198,,,,Widget RF-9198,,0,A,1000,750,,,A,,0,,,,,WGT-X -RF-9198,Widget specification RF-9198,,,Current
+180,RM-M464,,G  ,,Widget RM-M464,,0,A,800,600,,,A,435,0,,,L ,,WGT-X -RM-M464,Widget specification RM-M464,,,Current
+181,RM-M692,,G  ,,Widget RM-M692,,0,A,800,600,,,A,450,0,,,M ,,WGT-X -RM-M692,Widget specification RM-M692,,,Current
+182,RM-M823,,G  ,,Widget RM-M823,,0,A,800,600,,,A,400,0,,,,,WGT-X -RM-M823,Widget specification RM-M823,,,Current
+183,RM-R436,,G  ,,Widget RM-R436,,0,A,800,600,,,A,445,0,,,L ,,WGT-X -RM-R436,Widget specification RM-R436,,,Current
+184,RM-R600,,G  ,,Widget RM-R600,,0,A,800,600,,,A,450,0,,,M ,,WGT-X -RM-R600,Widget specification RM-R600,,,Current
+185,RM-R800,,G  ,,Widget RM-R800,,0,A,800,600,,,A,400,0,,,,,WGT-X -RM-R800,Widget specification RM-R800,,,Current
+186,RM-T801,,G  ,,Widget RM-T801,,0,A,800,600,,,A,460,0,,,,,WGT-X -RM-T801,Widget specification RM-T801,,,Current
+187,SA-M198,,,,Widget SA-M198,,0,A,500,375,,,A,,1,,,L ,,WGT-X -SA-M198,Widget specification SA-M198,,,Current
+188,SA-M237,,,,Widget SA-M237,,0,A,500,375,,,A,,1,,,M ,,WGT-X -SA-M237,Widget specification SA-M237,,,Current
+189,SA-M687,,,,Widget SA-M687,,0,A,500,375,,,A,,1,,,,,WGT-X -SA-M687,Widget specification SA-M687,,,Current
+190,SA-R127,,,,Widget SA-R127,,0,A,500,375,,,A,,1,,,L ,,WGT-X -SA-R127,Widget specification SA-R127,,,Current
+191,SA-R430,,,,Widget SA-R430,,0,A,500,375,,,A,,1,,,M ,,WGT-X -SA-R430,Widget specification SA-R430,,,Current
+192,SA-R522,,,,Widget SA-R522,,0,A,500,375,,,A,,1,,,,,WGT-X -SA-R522,Widget specification SA-R522,,,Current
+193,SA-T467,,,,Widget SA-T467,,0,A,500,375,,,A,,1,,,L ,,WGT-X -SA-T467,Widget specification SA-T467,,,Current
+194,SA-T612,,,,Widget SA-T612,,0,A,500,375,,,A,,1,,,M ,,WGT-X -SA-T612,Widget specification SA-T612,,,Current
+195,SA-T872,,,,Widget SA-T872,,0,A,500,375,,,A,,1,,,,,WGT-X -SA-T872,Widget specification SA-T872,,,Current
+196,SD-2342,,,,Widget SD-2342,,0,A,500,375,,,A,,0,,,L ,,WGT-X -SD-2342,Widget specification SD-2342,,,Current
+197,SD-9872,,,,Widget SD-9872,,0,A,500,375,,,A,,0,,,,,WGT-X -SD-9872,Widget specification SD-9872,,,Current
+198,SH-4562,,,,Widget SH-4562,,0,A,800,600,,,A,,0,,,L ,,WGT-X -SH-4562,Widget specification SH-4562,,,Current
+199,SH-9312,,,,Widget SH-9312,,0,A,800,600,,,A,,0,,,,,WGT-X -SH-9312,Widget specification SH-9312,,,Current
+200,SK-9283,,,,Widget SK-9283,,0,A,1000,750,,,A,,0,,,,,WGT-X -SK-9283,Widget specification SK-9283,,,Current
+201,SL-0931,,,,Widget SL-0931,,0,A,1000,750,,,A,,0,,,,,WGT-X -SL-0931,Widget specification SL-0931,,,Current
+202,SM-9087,,,,Widget SM-9087,,0,A,500,375,,,A,,1,,,,,WGT-X -SM-9087,Widget specification SM-9087,,,Current
+203,SP-2981,,,,Widget SP-2981,,0,A,500,375,,,A,,0,,,,,WGT-X -SP-2981,Widget specification SP-2981,,,Current
+204,SR-2098,,,,Widget SR-2098,,0,A,500,375,,,A,,1,,,,,WGT-X -SR-2098,Widget specification SR-2098,,,Current
+205,SS-2985,,,,Widget SS-2985,,0,A,800,600,,,A,,1,,,,,WGT-X -SS-2985,Widget specification SS-2985,,,Current
+206,ST-9828,,,,Widget ST-9828,,0,A,500,375,,,A,,1,,,,,WGT-X -ST-9828,Widget specification ST-9828,,,Current
+207,TO-2301,,,,Widget TO-2301,,0,A,500,375,,,A,,1,,,,,WGT-X -TO-2301,Widget specification TO-2301,,,Current
+208,TP-0923,,,,Widget TP-0923,,0,A,800,600,,,A,,0,,,,,WGT-X -TP-0923,Widget specification TP-0923,,,Current
+209,RC-0291,,,,Widget RC-0291,,0,Silver,500,375,,,A,,0,,,,,WGT-X -RC-0291,Widget specification RC-0291,,,Current
+210,FR-R92B-58,14,LB ,CM ,Widget FR-R92B-58,,1,Black,500,375,,58,54-58 CM,2.24,1,R ,,H ,U ,WGT-R -FR-R92B-58,Widget specification FR-R92B-58,,,Current
+211,FR-R92R-58,14,LB ,CM ,Widget FR-R92R-58,,1,Red,500,375,,58,54-58 CM,2.24,1,R ,,H ,U ,WGT-R -FR-R92R-58,Widget specification FR-R92R-58,,,Current
+212,HL-U509-R,31,,,Widget HL-U509-R,12.0278,1,Red,4,3,33.6442,,A,,0,S ,20.1865,,,WGT-S -HL-U509-R,Widget specification HL-U509-R,,,
+213,HL-U509-R,31,,,Widget HL-U509-R,13.8782,1,Red,4,3,33.6442,,A,,0,S ,20.1865,,,WGT-S -HL-U509-R,Widget specification HL-U509-R,,,
+214,HL-U509-R,31,,,Widget HL-U509-R,13.0863,1,Red,4,3,34.99,,A,,0,S ,20.994,,,WGT-S -HL-U509-R,Widget specification HL-U509-R,,,Current
+215,HL-U509,31,,,Widget HL-U509,12.0278,1,Black,4,3,33.6442,,A,,0,S ,20.1865,,,WGT-S -HL-U509,Widget specification HL-U509,,,
+216,HL-U509,31,,,Widget HL-U509,13.8782,1,Black,4,3,33.6442,,A,,0,S ,20.1865,,,WGT-S -HL-U509,Widget specification HL-U509,,,
+217,HL-U509,31,,,Widget HL-U509,13.0863,1,Black,4,3,34.99,,A,,0,S ,20.994,,,WGT-S -HL-U509,Widget specification HL-U509,,,Current
+218,SO-B909-M,23,,,Widget SO-B909-M,3.3963,1,White,4,3,9.5,M,M,,0,M ,5.7,,U ,WGT-M -SO-B909-M,Widget specification SO-B909-M,,,
+219,SO-B909-L,23,,,Widget SO-B909-L,3.3963,1,White,4,3,9.5,L,L,,0,M ,5.7,,U ,WGT-M -SO-B909-L,Widget specification SO-B909-L,,,
+220,HL-U509-B,31,,,Widget HL-U509-B,12.0278,1,Blue,4,3,33.6442,,A,,0,S ,20.1865,,,WGT-S -HL-U509-B,Widget specification HL-U509-B,,,
+221,HL-U509-B,31,,,Widget HL-U509-B,13.8782,1,Blue,4,3,33.6442,,A,,0,S ,20.1865,,,WGT-S -HL-U509-B,Widget specification HL-U509-B,,,
+222,HL-U509-B,31,,,Widget HL-U509-B,13.0863,1,Blue,4,3,34.99,,A,,0,S ,20.994,,,WGT-S -HL-U509-B,Widget specification HL-U509-B,,,Current
+223,CA-1098,19,,,Widget CA-1098,5.7052,1,Multi,4,3,8.6442,,A,,0,S ,5.1865,,U ,WGT-S -CA-1098,Widget specification CA-1098,,,
+224,CA-1098,19,,,Widget CA-1098,5.2297,1,Multi,4,3,8.6442,,A,,0,S ,5.1865,,U ,WGT-S -CA-1098,Widget specification CA-1098,,,
+225,CA-1098,19,,,Widget CA-1098,6.9223,1,Multi,4,3,8.99,,A,,0,S ,5.394,,U ,WGT-S -CA-1098,Widget specification CA-1098,,,Current
+226,LJ-0192-S,21,,,Widget LJ-0192-S,31.7244,1,Multi,4,3,48.0673,S,S,,0,S ,28.8404,,U ,WGT-S -LJ-0192-S,Widget specification LJ-0192-S,,,
+227,LJ-0192-S,21,,,Widget LJ-0192-S,29.0807,1,Multi,4,3,48.0673,S,S,,0,S ,28.8404,,U ,WGT-S -LJ-0192-S,Widget specification LJ-0192-S,,,
+228,LJ-0192-S,21,,,Widget LJ-0192-S,38.4923,1,Multi,4,3,49.99,S,S,,0,S ,29.994,,U ,WGT-S -LJ-0192-S,Widget specification LJ-0192-S,,,Current
+229,LJ-0192-M,21,,,Widget LJ-0192-M,31.7244,1,Multi,4,3,48.0673,M,M,,0,S ,28.8404,,U ,WGT-S -LJ-0192-M,Widget specification LJ-0192-M,,,
+230,LJ-0192-M,21,,,Widget LJ-0192-M,29.0807,1,Multi,4,3,48.0673,M,M,,0,S ,28.8404,,U ,WGT-S -LJ-0192-M,Widget specification LJ-0192-M,,,
+231,LJ-0192-M,21,,,Widget LJ-0192-M,38.4923,1,Multi,4,3,49.99,M,M,,0,S ,29.994,,U ,WGT-S -LJ-0192-M,Widget specification LJ-0192-M,,,Current
+232,LJ-0192-L,21,,,Widget LJ-0192-L,31.7244,1,Multi,4,3,48.0673,L,L,,0,S ,28.8404,,U ,WGT-S -LJ-0192-L,Widget specification LJ-0192-L,,,
+233,LJ-0192-L,21,,,Widget LJ-0192-L,29.0807,1,Multi,4,3,48.0673,L,L,,0,S ,28.8404,,U ,WGT-S -LJ-0192-L,Widget specification LJ-0192-L,,,
+234,LJ-0192-L,21,,,Widget LJ-0192-L,38.4923,1,Multi,4,3,49.99,L,L,,0,S ,29.994,,U ,WGT-S -LJ-0192-L,Widget specification LJ-0192-L,,,Current
+235,LJ-0192-X,21,,,Widget LJ-0192-X,31.7244,1,Multi,4,3,48.0673,XL,XL,,0,S ,28.8404,,U ,WGT-S -LJ-0192-X,Widget specification LJ-0192-X,,,
+236,LJ-0192-X,21,,,Widget LJ-0192-X,29.0807,1,Multi,4,3,48.0673,XL,XL,,0,S ,28.8404,,U ,WGT-S -LJ-0192-X,Widget specification LJ-0192-X,,,
+237,LJ-0192-X,21,,,Widget LJ-0192-X,38.4923,1,Multi,4,3,49.99,XL,XL,,0,S ,29.994,,U ,WGT-S -LJ-0192-X,Widget specification LJ-0192-X,,,Current
+238,FR-R92R-62,14,LB ,CM ,Widget FR-R92R-62,747.9682,1,Red,500,375,1263.4598,62,60-62 CM,2.3,1,R ,758.0759,H ,U ,WGT-R -FR-R92R-62,Widget specification FR-R92R-62,,,
+239,FR-R92R-62,14,LB ,CM ,Widget FR-R92R-62,722.2568,1,Red,500,375,1301.3636,62,60-62 CM,2.3,1,R ,780.8182,H ,U ,WGT-R -FR-R92R-62,Widget specification FR-R92R-62,,,
+240,FR-R92R-62,14,LB ,CM ,Widget FR-R92R-62,868.6342,1,Red,500,375,1431.5,62,60-62 CM,2.3,1,R ,858.9,H ,U ,WGT-R -FR-R92R-62,Widget specification FR-R92R-62,,,Current
+241,FR-R92R-44,14,LB ,CM ,Widget FR-R92R-44,747.9682,1,Red,500,375,1263.4598,44,42-46 CM,2.12,1,R ,758.0759,H ,U ,WGT-R -FR-R92R-44,Widget specification FR-R92R-44,,,
+242,FR-R92R-44,14,LB ,CM ,Widget FR-R92R-44,722.2568,1,Red,500,375,1301.3636,44,42-46 CM,2.12,1,R ,780.8182,H ,U ,WGT-R -FR-R92R-44,Widget specification FR-R92R-44,,,
+243,FR-R92R-44,14,LB ,CM ,Widget FR-R92R-44,868.6342,1,Red,500,375,1431.5,44,42-46 CM,2.12,1,R ,858.9,H ,U ,WGT-R -FR-R92R-44,Widget specification FR-R92R-44,,,Current
+244,FR-R92R-48,14,LB ,CM ,Widget FR-R92R-48,747.9682,1,Red,500,375,1263.4598,48,48-52 CM,2.16,1,R ,758.0759,H ,U ,WGT-R -FR-R92R-48,Widget specification FR-R92R-48,,,
+245,FR-R92R-48,14,LB ,CM ,Widget FR-R92R-48,722.2568,1,Red,500,375,1301.3636,48,48-52 CM,2.16,1,R ,780.8182,H ,U ,WGT-R -FR-R92R-48,Widget specification FR-R92R-48,,,
+246,FR-R92R-48,14,LB ,CM ,Widget FR-R92R-48,868.6342,1,Red,500,375,1431.5,48,48-52 CM,2.16,1,R ,858.9,H ,U ,WGT-R -FR-R92R-48,Widget specification FR-R92R-48,,,Current
+247,FR-R92R-52,14,LB ,CM ,Widget FR-R92R-52,747.9682,1,Red,500,375,1263.4598,52,48-52 CM,2.2,1,R ,758.0759,H ,U ,WGT-R -FR-R92R-52,Widget specification FR-R92R-52,,,
+248,FR-R92R-52,14,LB ,CM ,Widget FR-R92R-52,722.2568,1,Red,500,375,1301.3636,52,48-52 CM,2.2,1,R ,780.8182,H ,U ,WGT-R -FR-R92R-52,Widget specification FR-R92R-52,,,
+249,FR-R92R-52,14,LB ,CM ,Widget FR-R92R-52,868.6342,1,Red,500,375,1431.5,52,48-52 CM,2.2,1,R ,858.9,H ,U ,WGT-R -FR-R92R-52,Widget specification FR-R92R-52,,,Current
+250,FR-R92R-56,14,LB ,CM ,Widget FR-R92R-56,747.9682,1,Red,500,375,1263.4598,56,54-58 CM,2.24,1,R ,758.0759,H ,U ,WGT-R -FR-R92R-56,Widget specification FR-R92R-56,,,
+251,FR-R92R-56,14,LB ,CM ,Widget FR-R92R-56,722.2568,1,Red,500,375,1301.3636,56,54-58 CM,2.24,1,R ,780.8182,H ,U ,WGT-R -FR-R92R-56,Widget specification FR-R92R-56,,,
+252,FR-R92R-56,14,LB ,CM ,Widget FR-R92R-56,868.6342,1,Red,500,375,1431.5,56,54-58 CM,2.24,1,R ,858.9,H ,U ,WGT-R -FR-R92R-56,Widget specification FR-R92R-56,,,Current
+253,FR-R38B-58,14,LB ,CM ,Widget FR-R38B-58,176.1997,1,Black,500,375,297.6346,58,54-58 CM,2.46,1,R ,178.5808,L ,U ,WGT-R -FR-R38B-58,Widget specification FR-R38B-58,,,
+254,FR-R38B-58,14,LB ,CM ,Widget FR-R38B-58,170.1428,1,Black,500,375,306.5636,58,54-58 CM,2.46,1,R ,183.9382,L ,U ,WGT-R -FR-R38B-58,Widget specification FR-R38B-58,,,
+255,FR-R38B-58,14,LB ,CM ,Widget FR-R38B-58,204.6251,1,Black,500,375,337.22,58,54-58 CM,2.46,1,R ,202.332,L ,U ,WGT-R -FR-R38B-58,Widget specification FR-R38B-58,,,Current
+256,FR-R38B-60,14,LB ,CM ,Widget FR-R38B-60,176.1997,1,Black,500,375,297.6346,60,60-62 CM,2.48,1,R ,178.5808,L ,U ,WGT-R -FR-R38B-60,Widget specification FR-R38B-60,,,
+257,FR-R38B-60,14,LB ,CM ,Widget FR-R38B-60,170.1428,1,Black,500,375,306.5636,60,60-62 CM,2.48,1,R ,183.9382,L ,U ,WGT-R -FR-R38B-60,Widget specification FR-R38B-60,,,
+258,FR-R38B-60,14,LB ,CM ,Widget FR-R38B-60,204.6251,1,Black,500,375,337.22,60,60-62 CM,2.48,1,R ,202.332,L ,U ,WGT-R -FR-R38B-60,Widget specification FR-R38B-60,,,Current
+259,FR-R38B-62,14,LB ,CM ,Widget FR-R38B-62,176.1997,1,Black,500,375,297.6346,62,60-62 CM,2.5,1,R ,178.5808,L ,U ,WGT-R -FR-R38B-62,Widget specification FR-R38B-62,,,
+260,FR-R38B-62,14,LB ,CM ,Widget FR-R38B-62,170.1428,1,Black,500,375,306.5636,62,60-62 CM,2.5,1,R ,183.9382,L ,U ,WGT-R -FR-R38B-62,Widget specification FR-R38B-62,,,
+261,FR-R38B-62,14,LB ,CM ,Widget FR-R38B-62,204.6251,1,Black,500,375,337.22,62,60-62 CM,2.5,1,R ,202.332,L ,U ,WGT-R -FR-R38B-62,Widget specification FR-R38B-62,,,Current
+262,FR-R38R-44,14,LB ,CM ,Widget FR-R38R-44,181.4857,1,Red,500,375,306.5636,44,42-46 CM,2.32,1,R ,183.9382,L ,U ,WGT-R -FR-R38R-44,Widget specification FR-R38R-44,,,
+263,FR-R38R-44,14,LB ,CM ,Widget FR-R38R-44,187.1571,1,Red,500,375,337.22,44,42-46 CM,2.32,1,R ,202.332,L ,U ,WGT-R -FR-R38R-44,Widget specification FR-R38R-44,,,
+264,FR-R38R-48,14,LB ,CM ,Widget FR-R38R-48,181.4857,1,Red,500,375,306.5636,48,48-52 CM,2.36,1,R ,183.9382,L ,U ,WGT-R -FR-R38R-48,Widget specification FR-R38R-48,,,
+265,FR-R38R-48,14,LB ,CM ,Widget FR-R38R-48,187.1571,1,Red,500,375,337.22,48,48-52 CM,2.36,1,R ,202.332,L ,U ,WGT-R -FR-R38R-48,Widget specification FR-R38R-48,,,
+266,FR-R38R-52,14,LB ,CM ,Widget FR-R38R-52,181.4857,1,Red,500,375,306.5636,52,48-52 CM,2.4,1,R ,183.9382,L ,U ,WGT-R -FR-R38R-52,Widget specification FR-R38R-52,,,
+267,FR-R38R-52,14,LB ,CM ,Widget FR-R38R-52,187.1571,1,Red,500,375,337.22,52,48-52 CM,2.4,1,R ,202.332,L ,U ,WGT-R -FR-R38R-52,Widget specification FR-R38R-52,,,
+268,FR-R38R-58,14,LB ,CM ,Widget FR-R38R-58,181.4857,1,Red,500,375,306.5636,58,54-58 CM,2.46,1,R ,183.9382,L ,U ,WGT-R -FR-R38R-58,Widget specification FR-R38R-58,,,
+269,FR-R38R-58,14,LB ,CM ,Widget FR-R38R-58,187.1571,1,Red,500,375,337.22,58,54-58 CM,2.46,1,R ,202.332,L ,U ,WGT-R -FR-R38R-58,Widget specification FR-R38R-58,,,
+270,FR-R38R-60,14,LB ,CM ,Widget FR-R38R-60,181.4857,1,Red,500,375,306.5636,60,60-62 CM,2.48,1,R ,183.9382,L ,U ,WGT-R -FR-R38R-60,Widget specification FR-R38R-60,,,
+271,FR-R38R-60,14,LB ,CM ,Widget FR-R38R-60,187.1571,1,Red,500,375,337.22,60,60-62 CM,2.48,1,R ,202.332,L ,U ,WGT-R -FR-R38R-60,Widget specification FR-R38R-60,,,
+272,FR-R38R-62,14,LB ,CM ,Widget FR-R38R-62,181.4857,1,Red,500,375,306.5636,62,60-62 CM,2.5,1,R ,183.9382,L ,U ,WGT-R -FR-R38R-62,Widget specification FR-R38R-62,,,
+273,FR-R38R-62,14,LB ,CM ,Widget FR-R38R-62,187.1571,1,Red,500,375,337.22,62,60-62 CM,2.5,1,R ,202.332,L ,U ,WGT-R -FR-R38R-62,Widget specification FR-R38R-62,,,
+274,FR-R72R-44,14,LB ,CM ,Widget FR-R72R-44,352.1394,1,Red,500,375,594.83,44,42-46 CM,2.22,1,R ,356.898,M ,U ,WGT-R -FR-R72R-44,Widget specification FR-R72R-44,,,
+275,FR-R72R-48,14,LB ,CM ,Widget FR-R72R-48,352.1394,1,Red,500,375,594.83,48,48-52 CM,2.26,1,R ,356.898,M ,U ,WGT-R -FR-R72R-48,Widget specification FR-R72R-48,,,
+276,FR-R72R-52,14,LB ,CM ,Widget FR-R72R-52,352.1394,1,Red,500,375,594.83,52,48-52 CM,2.3,1,R ,356.898,M ,U ,WGT-R -FR-R72R-52,Widget specification FR-R72R-52,,,
+277,FR-R72R-58,14,LB ,CM ,Widget FR-R72R-58,352.1394,1,Red,500,375,594.83,58,54-58 CM,2.36,1,R ,356.898,M ,U ,WGT-R -FR-R72R-58,Widget specification FR-R72R-58,,,
+278,FR-R72R-60,14,LB ,CM ,Widget FR-R72R-60,352.1394,1,Red,500,375,594.83,60,60-62 CM,2.38,1,R ,356.898,M ,U ,WGT-R -FR-R72R-60,Widget specification FR-R72R-60,,,
+279,FR-R38B-44,14,LB ,CM ,Widget FR-R38B-44,176.1997,1,Black,500,375,297.6346,44,42-46 CM,2.32,1,R ,178.5808,L ,U ,WGT-R -FR-R38B-44,Widget specification FR-R38B-44,,,
+280,FR-R38B-44,14,LB ,CM ,Widget FR-R38B-44,170.1428,1,Black,500,375,306.5636,44,42-46 CM,2.32,1,R ,183.9382,L ,U ,WGT-R -FR-R38B-44,Widget specification FR-R38B-44,,,
+281,FR-R38B-44,14,LB ,CM ,Widget FR-R38B-44,204.6251,1,Black,500,375,337.22,44,42-46 CM,2.32,1,R ,202.332,L ,U ,WGT-R -FR-R38B-44,Widget specification FR-R38B-44,,,Current
+282,FR-R38B-48,14,LB ,CM ,Widget FR-R38B-48,176.1997,1,Black,500,375,297.6346,48,48-52 CM,2.36,1,R ,178.5808,L ,U ,WGT-R -FR-R38B-48,Widget specification FR-R38B-48,,,
+283,FR-R38B-48,14,LB ,CM ,Widget FR-R38B-48,170.1428,1,Black,500,375,306.5636,48,48-52 CM,2.36,1,R ,183.9382,L ,U ,WGT-R -FR-R38B-48,Widget specification FR-R38B-48,,,
+284,FR-R38B-48,14,LB ,CM ,Widget FR-R38B-48,204.6251,1,Black,500,375,337.22,48,48-52 CM,2.36,1,R ,202.332,L ,U ,WGT-R -FR-R38B-48,Widget specification FR-R38B-48,,,Current
+285,FR-R38B-52,14,LB ,CM ,Widget FR-R38B-52,176.1997,1,Black,500,375,297.6346,52,48-52 CM,2.4,1,R ,178.5808,L ,U ,WGT-R -FR-R38B-52,Widget specification FR-R38B-52,,,
+286,FR-R38B-52,14,LB ,CM ,Widget FR-R38B-52,170.1428,1,Black,500,375,306.5636,52,48-52 CM,2.4,1,R ,183.9382,L ,U ,WGT-R -FR-R38B-52,Widget specification FR-R38B-52,,,
+287,FR-R38B-52,14,LB ,CM ,Widget FR-R38B-52,204.6251,1,Black,500,375,337.22,52,48-52 CM,2.4,1,R ,202.332,L ,U ,WGT-R -FR-R38B-52,Widget specification FR-R38B-52,,,Current
+288,FR-M94S-42,12,LB ,CM ,Widget FR-M94S-42,623.8403,1,Silver,500,375,1204.3248,42,42-46 CM,2.72,1,M ,722.5949,H ,U ,WGT-M -FR-M94S-42,Widget specification FR-M94S-42,,,
+289,FR-M94S-42,12,LB ,CM ,Widget FR-M94S-42,660.9142,1,Silver,500,375,1240.4545,42,42-46 CM,2.72,1,M ,744.2727,H ,U ,WGT-M -FR-M94S-42,Widget specification FR-M94S-42,,,
+290,FR-M94S-42,12,LB ,CM ,Widget FR-M94S-42,747.2002,1,Silver,500,375,1364.5,42,42-46 CM,2.72,1,M ,818.7,H ,U ,WGT-M -FR-M94S-42,Widget specification FR-M94S-42,,,Current
+291,FR-M94S-44,12,LB ,CM ,Widget FR-M94S-44,706.811,1,Silver,500,375,1364.5,44,42-46 CM,2.76,1,M ,818.7,H ,U ,WGT-M -FR-M94S-44,Widget specification FR-M94S-44,,,
+292,FR-M94S-52,12,LB ,CM ,Widget FR-M94S-52,706.811,1,Silver,500,375,1364.5,48,48-52 CM,2.8,1,M ,818.7,H ,U ,WGT-M -FR-M94S-52,Widget specification FR-M94S-52,,,
+293,FR-M94S-46,12,LB ,CM ,Widget FR-M94S-46,623.8403,1,Silver,500,375,1204.3248,46,42-46 CM,2.84,1,M ,722.5949,H ,U ,WGT-M -FR-M94S-46,Widget specification FR-M94S-46,,,
+294,FR-M94S-46,12,LB ,CM ,Widget FR-M94S-46,660.9142,1,Silver,500,375,1240.4545,46,42-46 CM,2.84,1,M ,744.2727,H ,U ,WGT-M -FR-M94S-46,Widget specification FR-M94S-46,,,
+295,FR-M94S-46,12,LB ,CM ,Widget FR-M94S-46,747.2002,1,Silver,500,375,1364.5,46,42-46 CM,2.84,1,M ,818.7,H ,U ,WGT-M -FR-M94S-46,Widget specification FR-M94S-46,,,Current
+296,FR-M94B-42,12,LB ,CM ,Widget FR-M94B-42,617.0281,1,Black,500,375,1191.1739,42,42-46 CM,2.72,1,M ,714.7043,H ,U ,WGT-M -FR-M94B-42,Widget specification FR-M94B-42,,,
+297,FR-M94B-42,12,LB ,CM ,Widget FR-M94B-42,653.6971,1,Black,500,375,1226.9091,42,42-46 CM,2.72,1,M ,736.1455,H ,U ,WGT-M -FR-M94B-42,Widget specification FR-M94B-42,,,
+298,FR-M94B-42,12,LB ,CM ,Widget FR-M94B-42,739.041,1,Black,500,375,1349.6,42,42-46 CM,2.72,1,M ,809.76,H ,U ,WGT-M -FR-M94B-42,Widget specification FR-M94B-42,,,Current
+299,FR-M94B-44,12,LB ,CM ,Widget FR-M94B-44,699.0928,1,Black,500,375,1349.6,44,42-46 CM,2.76,1,M ,809.76,H ,U ,WGT-M -FR-M94B-44,Widget specification FR-M94B-44,,,
+300,FR-M94B-48,12,LB ,CM ,Widget FR-M94B-48,699.0928,1,Black,500,375,1349.6,48,48-52 CM,2.8,1,M ,809.76,H ,U ,WGT-M -FR-M94B-48,Widget specification FR-M94B-48,,,
+301,FR-M94B-46,12,LB ,CM ,Widget FR-M94B-46,617.0281,1,Black,500,375,1191.1739,46,42-46 CM,2.84,1,M ,714.7043,H ,U ,WGT-M -FR-M94B-46,Widget specification FR-M94B-46,,,
+302,FR-M94B-46,12,LB ,CM ,Widget FR-M94B-46,653.6971,1,Black,500,375,1226.9091,46,42-46 CM,2.84,1,M ,736.1455,H ,U ,WGT-M -FR-M94B-46,Widget specification FR-M94B-46,,,
+303,FR-M94B-46,12,LB ,CM ,Widget FR-M94B-46,739.041,1,Black,500,375,1349.6,46,42-46 CM,2.84,1,M ,809.76,H ,U ,WGT-M -FR-M94B-46,Widget specification FR-M94B-46,,,Current
+304,FR-M94B-38,12,LB ,CM ,Widget FR-M94B-38,617.0281,1,Black,500,375,1191.1739,38,38-40 CM,2.68,2,M ,714.7043,H ,U ,WGT-M -FR-M94B-38,Widget specification FR-M94B-38,,,
+305,FR-M94B-38,12,LB ,CM ,Widget FR-M94B-38,653.6971,1,Black,500,375,1226.9091,38,38-40 CM,2.68,2,M ,736.1455,H ,U ,WGT-M -FR-M94B-38,Widget specification FR-M94B-38,,,
+306,FR-M94B-38,12,LB ,CM ,Widget FR-M94B-38,739.041,1,Black,500,375,1349.6,38,38-40 CM,2.68,2,M ,809.76,H ,U ,WGT-M -FR-M94B-38,Widget specification FR-M94B-38,,,Current
+307,FR-M94S-38,12,LB ,CM ,Widget FR-M94S-38,623.8403,1,Silver,500,375,1204.3248,38,38-40 CM,2.68,2,M ,722.5949,H ,U ,WGT-M -FR-M94S-38,Widget specification FR-M94S-38,,,
+308,FR-M94S-38,12,LB ,CM ,Widget FR-M94S-38,660.9142,1,Silver,500,375,1240.4545,38,38-40 CM,2.68,2,M ,744.2727,H ,U ,WGT-M -FR-M94S-38,Widget specification FR-M94S-38,,,
+309,FR-M94S-38,12,LB ,CM ,Widget FR-M94S-38,747.2002,1,Silver,500,375,1364.5,38,38-40 CM,2.68,2,M ,818.7,H ,U ,WGT-M -FR-M94S-38,Widget specification FR-M94S-38,,,Current
+310,BK-R93R-62,2,LB ,CM ,Widget BK-R93R-62,2171.2942,1,Red,100,75,3578.27,62,60-62 CM,15,4,R ,2146.962,H ,U ,WGT-R -BK-R93R-62,Widget specification BK-R93R-62,,,
+311,BK-R93R-44,2,LB ,CM ,Widget BK-R93R-44,2171.2942,1,Red,100,75,3578.27,44,42-46 CM,13.77,4,R ,2146.962,H ,U ,WGT-R -BK-R93R-44,Widget specification BK-R93R-44,,,
+312,BK-R93R-48,2,LB ,CM ,Widget BK-R93R-48,2171.2942,1,Red,100,75,3578.27,48,48-52 CM,14.13,4,R ,2146.962,H ,U ,WGT-R -BK-R93R-48,Widget specification BK-R93R-48,,,
+313,BK-R93R-52,2,LB ,CM ,Widget BK-R93R-52,2171.2942,1,Red,100,75,3578.27,52,48-52 CM,14.42,4,R ,2146.962,H ,U ,WGT-R -BK-R93R-52,Widget specification BK-R93R-52,,,
+314,BK-R93R-56,2,LB ,CM ,Widget BK-R93R-56,2171.2942,1,Red,100,75,3578.27,56,54-58 CM,14.68,4,R ,2146.962,H ,U ,WGT-R -BK-R93R-56,Widget specification BK-R93R-56,,,
+315,BK-R68R-58,2,LB ,CM ,Widget BK-R68R-58,884.7083,1,Red,100,75,1457.99,58,54-58 CM,17.79,4,R ,874.794,M ,U ,WGT-R -BK-R68R-58,Widget specification BK-R68R-58,,,
+316,BK-R68R-60,2,LB ,CM ,Widget BK-R68R-60,884.7083,1,Red,100,75,1457.99,60,60-62 CM,17.9,4,R ,874.794,M ,U ,WGT-R -BK-R68R-60,Widget specification BK-R68R-60,,,
+317,BK-R68R-44,2,LB ,CM ,Widget BK-R68R-44,884.7083,1,Red,100,75,1457.99,44,42-46 CM,16.77,4,R ,874.794,M ,U ,WGT-R -BK-R68R-44,Widget specification BK-R68R-44,,,
+318,BK-R68R-48,2,LB ,CM ,Widget BK-R68R-48,884.7083,1,Red,100,75,1457.99,48,48-52 CM,17.13,4,R ,874.794,M ,U ,WGT-R -BK-R68R-48,Widget specification BK-R68R-48,,,
+319,BK-R68R-52,2,LB ,CM ,Widget BK-R68R-52,884.7083,1,Red,100,75,1457.99,52,48-52 CM,17.42,4,R ,874.794,M ,U ,WGT-R -BK-R68R-52,Widget specification BK-R68R-52,,,
+320,BK-R50R-58,2,LB ,CM ,Widget BK-R50R-58,413.1463,1,Red,100,75,699.0982,58,54-58 CM,19.79,4,R ,419.4589,L ,U ,WGT-R -BK-R50R-58,Widget specification BK-R50R-58,,,
+321,BK-R50R-58,2,LB ,CM ,Widget BK-R50R-58,486.7066,1,Red,100,75,782.99,58,54-58 CM,19.79,4,R ,469.794,L ,U ,WGT-R -BK-R50R-58,Widget specification BK-R50R-58,,,
+322,BK-R50R-60,2,LB ,CM ,Widget BK-R50R-60,413.1463,1,Red,100,75,699.0982,60,60-62 CM,19.9,4,R ,419.4589,L ,U ,WGT-R -BK-R50R-60,Widget specification BK-R50R-60,,,
+323,BK-R50R-60,2,LB ,CM ,Widget BK-R50R-60,486.7066,1,Red,100,75,782.99,60,60-62 CM,19.9,4,R ,469.794,L ,U ,WGT-R -BK-R50R-60,Widget specification BK-R50R-60,,,
+324,BK-R50R-62,2,LB ,CM ,Widget BK-R50R-62,413.1463,1,Red,100,75,699.0982,62,60-62 CM,20,4,R ,419.4589,L ,U ,WGT-R -BK-R50R-62,Widget specification BK-R50R-62,,,
+325,BK-R50R-62,2,LB ,CM ,Widget BK-R50R-62,486.7066,1,Red,100,75,782.99,62,60-62 CM,20,4,R ,469.794,L ,U ,WGT-R -BK-R50R-62,Widget specification BK-R50R-62,,,
+326,BK-R50R-44,2,LB ,CM ,Widget BK-R50R-44,413.1463,1,Red,100,75,699.0982,44,42-46 CM,18.77,4,R ,419.4589,L ,U ,WGT-R -BK-R50R-44,Widget specification BK-R50R-44,,,
+327,BK-R50R-44,2,LB ,CM ,Widget BK-R50R-44,486.7066,1,Red,100,75,782.99,44,42-46 CM,18.77,4,R ,469.794,L ,U ,WGT-R -BK-R50R-44,Widget specification BK-R50R-44,,,
+328,BK-R50R-48,2,LB ,CM ,Widget BK-R50R-48,413.1463,1,Red,100,75,699.0982,48,48-52 CM,19.13,4,R ,419.4589,L ,U ,WGT-R -BK-R50R-48,Widget specification BK-R50R-48,,,
+329,BK-R50R-48,2,LB ,CM ,Widget BK-R50R-48,486.7066,1,Red,100,75,782.99,48,48-52 CM,19.13,4,R ,469.794,L ,U ,WGT-R -BK-R50R-48,Widget specification BK-R50R-48,,,
+330,BK-R50R-52,2,LB ,CM ,Widget BK-R50R-52,413.1463,1,Red,100,75,699.0982,52,48-52 CM,19.42,4,R ,419.4589,L ,U ,WGT-R -BK-R50R-52,Widget specification BK-R50R-52,,,
+331,BK-R50R-52,2,LB ,CM ,Widget BK-R50R-52,486.7066,1,Red,100,75,782.99,52,48-52 CM,19.42,4,R ,469.794,L ,U ,WGT-R -BK-R50R-52,Widget specification BK-R50R-52,,,
+332,BK-R50B-58,2,LB ,CM ,Widget BK-R50B-58,413.1463,1,Black,100,75,699.0982,58,54-58 CM,19.79,4,R ,419.4589,L ,U ,WGT-R -BK-R50B-58,Widget specification BK-R50B-58,,,
+333,BK-R50B-58,2,LB ,CM ,Widget BK-R50B-58,486.7066,1,Black,100,75,782.99,58,54-58 CM,19.79,4,R ,469.794,L ,U ,WGT-R -BK-R50B-58,Widget specification BK-R50B-58,,,
+334,BK-R50B-60,2,LB ,CM ,Widget BK-R50B-60,413.1463,1,Black,100,75,699.0982,60,60-62 CM,19.9,4,R ,419.4589,L ,U ,WGT-R -BK-R50B-60,Widget specification BK-R50B-60,,,
+335,BK-R50B-60,2,LB ,CM ,Widget BK-R50B-60,486.7066,1,Black,100,75,782.99,60,60-62 CM,19.9,4,R ,469.794,L ,U ,WGT-R -BK-R50B-60,Widget specification BK-R50B-60,,,
+336,BK-R50B-62,2,LB ,CM ,Widget BK-R50B-62,413.1463,1,Black,100,75,699.0982,62,60-62 CM,20,4,R ,419.4589,L ,U ,WGT-R -BK-R50B-62,Widget specification BK-R50B-62,,,
+337,BK-R50B-62,2,LB ,CM ,Widget BK-R50B-62,486.7066,1,Black,100,75,782.99,62,60-62 CM,20,4,R ,469.794,L ,U ,WGT-R -BK-R50B-62,Widget specification BK-R50B-62,,,
+338,BK-R50B-44,2,LB ,CM ,Widget BK-R50B-44,413.1463,1,Black,100,75,699.0982,44,42-46 CM,18.77,4,R ,419.4589,L ,U ,WGT-R -BK-R50B-44,Widget specification BK-R50B-44,,,
+339,BK-R50B-44,2,LB ,CM ,Widget BK-R50B-44,486.7066,1,Black,100,75,782.99,44,42-46 CM,18.77,4,R ,469.794,L ,U ,WGT-R -BK-R50B-44,Widget specification BK-R50B-44,,,
+340,BK-R50B-48,2,LB ,CM ,Widget BK-R50B-48,413.1463,1,Black,100,75,699.0982,48,48-52 CM,19.13,4,R ,419.4589,L ,U ,WGT-R -BK-R50B-48,Widget specification BK-R50B-48,,,
+341,BK-R50B-48,2,LB ,CM ,Widget BK-R50B-48,486.7066,1,Black,100,75,782.99,48,48-52 CM,19.13,4,R ,469.794,L ,U ,WGT-R -BK-R50B-48,Widget specification BK-R50B-48,,,
+342,BK-R50B-52,2,LB ,CM ,Widget BK-R50B-52,413.1463,1,Black,100,75,699.0982,52,48-52 CM,19.42,4,R ,419.4589,L ,U ,WGT-R -BK-R50B-52,Widget specification BK-R50B-52,,,
+343,BK-R50B-52,2,LB ,CM ,Widget BK-R50B-52,486.7066,1,Black,100,75,782.99,52,48-52 CM,19.42,4,R ,469.794,L ,U ,WGT-R -BK-R50B-52,Widget specification BK-R50B-52,,,
+344,BK-M82S-38,1,LB ,CM ,Widget BK-M82S-38,1912.1544,1,Silver,100,75,3399.99,38,38-40 CM,20.35,4,M ,2039.994,H ,U ,WGT-M -BK-M82S-38,Widget specification BK-M82S-38,,,
+345,BK-M82S-42,1,LB ,CM ,Widget BK-M82S-42,1912.1544,1,Silver,100,75,3399.99,42,42-46 CM,20.77,4,M ,2039.994,H ,U ,WGT-M -BK-M82S-42,Widget specification BK-M82S-42,,,
+346,BK-M82S-44,1,LB ,CM ,Widget BK-M82S-44,1912.1544,1,Silver,100,75,3399.99,44,42-46 CM,21.13,4,M ,2039.994,H ,U ,WGT-M -BK-M82S-44,Widget specification BK-M82S-44,,,
+347,BK-M82S-48,1,LB ,CM ,Widget BK-M82S-48,1912.1544,1,Silver,100,75,3399.99,48,48-52 CM,21.42,4,M ,2039.994,H ,U ,WGT-M -BK-M82S-48,Widget specification BK-M82S-48,,,
+348,BK-M82B-38,1,LB ,CM ,Widget BK-M82B-38,1898.0944,1,Black,100,75,3374.99,38,38-40 CM,20.35,4,M ,2024.994,H ,U ,WGT-M -BK-M82B-38,Widget specification BK-M82B-38,,,
+349,BK-M82B-42,1,LB ,CM ,Widget BK-M82B-42,1898.0944,1,Black,100,75,3374.99,42,42-46 CM,20.77,4,M ,2024.994,H ,U ,WGT-M -BK-M82B-42,Widget specification BK-M82B-42,,,
+350,BK-M82B-44,1,LB ,CM ,Widget BK-M82B-44,1898.0944,1,Black,100,75,3374.99,44,42-46 CM,21.13,4,M ,2024.994,H ,U ,WGT-M -BK-M82B-44,Widget specification BK-M82B-44,,,
+351,BK-M82B-48,1,LB ,CM ,Widget BK-M82B-48,1898.0944,1,Black,100,75,3374.99,48,48-52 CM,21.42,4,M ,2024.994,H ,U ,WGT-M -BK-M82B-48,Widget specification BK-M82B-48,,,
+352,BK-M68S-38,1,LB ,CM ,Widget BK-M68S-38,1117.8559,1,Silver,100,75,2071.4196,38,38-40 CM,23.35,4,M ,1242.8518,H ,U ,WGT-M -BK-M68S-38,Widget specification BK-M68S-38,,,
+353,BK-M68S-38,1,LB ,CM ,Widget BK-M68S-38,1265.6195,1,Silver,100,75,2319.99,38,38-40 CM,23.35,4,M ,1391.994,H ,U ,WGT-M -BK-M68S-38,Widget specification BK-M68S-38,,,Current
+354,BK-M68S-42,1,LB ,CM ,Widget BK-M68S-42,1117.8559,1,Silver,100,75,2071.4196,42,42-46 CM,23.77,4,M ,1242.8518,H ,U ,WGT-M -BK-M68S-42,Widget specification BK-M68S-42,,,
+355,BK-M68S-42,1,LB ,CM ,Widget BK-M68S-42,1265.6195,1,Silver,100,75,2319.99,42,42-46 CM,23.77,4,M ,1391.994,H ,U ,WGT-M -BK-M68S-42,Widget specification BK-M68S-42,,,Current
+356,BK-M68S-46,1,LB ,CM ,Widget BK-M68S-46,1117.8559,1,Silver,100,75,2071.4196,46,42-46 CM,24.13,4,M ,1242.8518,H ,U ,WGT-M -BK-M68S-46,Widget specification BK-M68S-46,,,
+357,BK-M68S-46,1,LB ,CM ,Widget BK-M68S-46,1265.6195,1,Silver,100,75,2319.99,46,42-46 CM,24.13,4,M ,1391.994,H ,U ,WGT-M -BK-M68S-46,Widget specification BK-M68S-46,,,Current
+358,BK-M68B-38,1,LB ,CM ,Widget BK-M68B-38,1105.81,1,Black,100,75,2049.0982,38,38-40 CM,23.35,4,M ,1229.4589,H ,U ,WGT-M -BK-M68B-38,Widget specification BK-M68B-38,,,
+359,BK-M68B-38,1,LB ,CM ,Widget BK-M68B-38,1251.9813,1,Black,100,75,2294.99,38,38-40 CM,23.35,4,M ,1376.994,H ,U ,WGT-M -BK-M68B-38,Widget specification BK-M68B-38,,,Current
+360,BK-M68B-42,1,LB ,CM ,Widget BK-M68B-42,1105.81,1,Black,100,75,2049.0982,42,42-46 CM,23.77,4,M ,1229.4589,H ,U ,WGT-M -BK-M68B-42,Widget specification BK-M68B-42,,,
+361,BK-M68B-42,1,LB ,CM ,Widget BK-M68B-42,1251.9813,1,Black,100,75,2294.99,42,42-46 CM,23.77,4,M ,1376.994,H ,U ,WGT-M -BK-M68B-42,Widget specification BK-M68B-42,,,Current
+362,BK-M68B-46,1,LB ,CM ,Widget BK-M68B-46,1105.81,1,Black,100,75,2049.0982,46,42-46 CM,24.13,4,M ,1229.4589,H ,U ,WGT-M -BK-M68B-46,Widget specification BK-M68B-46,,,
+363,BK-M68B-46,1,LB ,CM ,Widget BK-M68B-46,1251.9813,1,Black,100,75,2294.99,46,42-46 CM,24.13,4,M ,1376.994,H ,U ,WGT-M -BK-M68B-46,Widget specification BK-M68B-46,,,Current
+364,BK-M47B-38,1,LB ,CM ,Widget BK-M47B-38,598.4354,1,Black,100,75,1079.99,38,38-40 CM,25.35,4,M ,647.994,M ,U ,WGT-M -BK-M47B-38,Widget specification BK-M47B-38,,,
+365,BK-M47B-40,1,LB ,CM ,Widget BK-M47B-40,598.4354,1,Black,100,75,1079.99,40,38-40 CM,25.77,4,M ,647.994,M ,U ,WGT-M -BK-M47B-40,Widget specification BK-M47B-40,,,
+366,BK-M47B-44,1,LB ,CM ,Widget BK-M47B-44,598.4354,1,Black,100,75,1079.99,44,42-46 CM,26.13,4,M ,647.994,M ,U ,WGT-M -BK-M47B-44,Widget specification BK-M47B-44,,,
+367,BK-M47B-48,1,LB ,CM ,Widget BK-M47B-48,598.4354,1,Black,100,75,1079.99,48,48-52 CM,26.42,4,M ,647.994,M ,U ,WGT-M -BK-M47B-48,Widget specification BK-M47B-48,,,
+368,BK-R89R-44,2,LB ,CM ,Widget BK-R89R-44,1518.7864,1,Red,100,75,2443.35,44,42-46 CM,14.77,4,R ,1466.01,H ,U ,WGT-R -BK-R89R-44,Widget specification BK-R89R-44,,,
+369,BK-R89R-48,2,LB ,CM ,Widget BK-R89R-48,1518.7864,1,Red,100,75,2443.35,48,48-52 CM,15.13,4,R ,1466.01,H ,U ,WGT-R -BK-R89R-48,Widget specification BK-R89R-48,,,
+370,BK-R89R-52,2,LB ,CM ,Widget BK-R89R-52,1518.7864,1,Red,100,75,2443.35,52,48-52 CM,15.42,4,R ,1466.01,H ,U ,WGT-R -BK-R89R-52,Widget specification BK-R89R-52,,,
+371,BK-R89R-58,2,LB ,CM ,Widget BK-R89R-58,1320.6838,1,Red,100,75,2181.5625,58,54-58 CM,15.79,4,R ,1308.9375,H ,U ,WGT-R -BK-R89R-58,Widget specification BK-R89R-58,,,
+372,BK-R89R-58,2,LB ,CM ,Widget BK-R89R-58,1554.9479,1,Red,100,75,2443.35,58,54-58 CM,15.79,4,R ,1466.01,H ,U ,WGT-R -BK-R89R-58,Widget specification BK-R89R-58,,,Current
+373,BK-R89B-44,2,LB ,CM ,Widget BK-R89B-44,1320.6838,1,Black,100,75,2181.5625,44,42-46 CM,14.77,4,R ,1308.9375,H ,U ,WGT-R -BK-R89B-44,Widget specification BK-R89B-44,,,
+374,BK-R89B-44,2,LB ,CM ,Widget BK-R89B-44,1554.9479,1,Black,100,75,2443.35,44,42-46 CM,14.77,4,R ,1466.01,H ,U ,WGT-R -BK-R89B-44,Widget specification BK-R89B-44,,,Current
+375,BK-R89B-48,2,LB ,CM ,Widget BK-R89B-48,1320.6838,1,Black,100,75,2181.5625,48,48-52 CM,15.13,4,R ,1308.9375,H ,U ,WGT-R -BK-R89B-48,Widget specification BK-R89B-48,,,
+376,BK-R89B-48,2,LB ,CM ,Widget BK-R89B-48,1554.9479,1,Black,100,75,2443.35,48,48-52 CM,15.13,4,R ,1466.01,H ,U ,WGT-R -BK-R89B-48,Widget specification BK-R89B-48,,,Current
+377,BK-R89B-52,2,LB ,CM ,Widget BK-R89B-52,1320.6838,1,Black,100,75,2181.5625,52,48-52 CM,15.42,4,R ,1308.9375,H ,U ,WGT-R -BK-R89B-52,Widget specification BK-R89B-52,,,
+378,BK-R89B-52,2,LB ,CM ,Widget BK-R89B-52,1554.9479,1,Black,100,75,2443.35,52,48-52 CM,15.42,4,R ,1466.01,H ,U ,WGT-R -BK-R89B-52,Widget specification BK-R89B-52,,,Current
+379,BK-R89B-58,2,LB ,CM ,Widget BK-R89B-58,1320.6838,1,Black,100,75,2181.5625,58,54-58 CM,15.68,4,R ,1308.9375,H ,U ,WGT-R -BK-R89B-58,Widget specification BK-R89B-58,,,
+380,BK-R89B-58,2,LB ,CM ,Widget BK-R89B-58,1554.9479,1,Black,100,75,2443.35,58,54-58 CM,15.68,4,R ,1466.01,H ,U ,WGT-R -BK-R89B-58,Widget specification BK-R89B-58,,,Current
+381,BK-R64Y-38,2,LB ,CM ,Widget BK-R64Y-38,605.6492,1,Yellow,100,75,1000.4375,38,38-40 CM,17.35,4,R ,600.2625,M ,W ,WGT-R -BK-R64Y-38,Widget specification BK-R64Y-38,,,
+382,BK-R64Y-38,2,LB ,CM ,Widget BK-R64Y-38,713.0798,1,Yellow,100,75,1120.49,38,38-40 CM,17.35,4,R ,672.294,M ,W ,WGT-R -BK-R64Y-38,Widget specification BK-R64Y-38,,,Current
+383,BK-R64Y-40,2,LB ,CM ,Widget BK-R64Y-40,605.6492,1,Yellow,100,75,1000.4375,40,38-40 CM,17.77,4,R ,600.2625,M ,W ,WGT-R -BK-R64Y-40,Widget specification BK-R64Y-40,,,
+384,BK-R64Y-40,2,LB ,CM ,Widget BK-R64Y-40,713.0798,1,Yellow,100,75,1120.49,40,38-40 CM,17.77,4,R ,672.294,M ,W ,WGT-R -BK-R64Y-40,Widget specification BK-R64Y-40,,,Current
+385,BK-R64Y-42,2,LB ,CM ,Widget BK-R64Y-42,605.6492,1,Yellow,100,75,1000.4375,42,42-46 CM,18.13,4,R ,600.2625,M ,W ,WGT-R -BK-R64Y-42,Widget specification BK-R64Y-42,,,
+386,BK-R64Y-42,2,LB ,CM ,Widget BK-R64Y-42,713.0798,1,Yellow,100,75,1120.49,42,42-46 CM,18.13,4,R ,672.294,M ,W ,WGT-R -BK-R64Y-42,Widget specification BK-R64Y-42,,,Current
+387,BK-R64Y-44,2,LB ,CM ,Widget BK-R64Y-44,605.6492,1,Yellow,100,75,1000.4375,44,42-46 CM,18.42,4,R ,600.2625,M ,W ,WGT-R -BK-R64Y-44,Widget specification BK-R64Y-44,,,
+388,BK-R64Y-44,2,LB ,CM ,Widget BK-R64Y-44,713.0798,1,Yellow,100,75,1120.49,44,42-46 CM,18.42,4,R ,672.294,M ,W ,WGT-R -BK-R64Y-44,Widget specification BK-R64Y-44,,,Current
+389,BK-R64Y-48,2,LB ,CM ,Widget BK-R64Y-48,605.6492,1,Yellow,100,75,1000.4375,48,48-52 CM,18.68,4,R ,600.2625,M ,W ,WGT-R -BK-R64Y-48,Widget specification BK-R64Y-48,,,
+390,BK-R64Y-48,2,LB ,CM ,Widget BK-R64Y-48,713.0798,1,Yellow,100,75,1120.49,48,48-52 CM,18.68,4,R ,672.294,M ,W ,WGT-R -BK-R64Y-48,Widget specification BK-R64Y-48,,,Current
+391,FK-1639,10,,,Widget FK-1639,65.8097,1,A,500,375,148.22,,A,,1,,88.932,L ,,WGT-X -FK-1639,Widget specification FK-1639,,,
+392,FK-5136,10,,,Widget FK-5136,77.9176,1,A,500,375,175.49,,A,,1,,105.294,M ,,WGT-X -FK-5136,Widget specification FK-5136,,,
+393,FK-9939,10,,,Widget FK-9939,101.8936,1,A,500,375,229.49,,A,,1,,137.694,H ,,WGT-X -FK-9939,Widget specification FK-9939,,,
+394,HS-0296,11,,,Widget HS-0296,15.1848,1,A,500,375,34.2,,A,,1,,20.52,L ,,WGT-X -HS-0296,Widget specification HS-0296,,,
+395,HS-2451,11,,,Widget HS-2451,45.4168,1,A,500,375,102.29,,A,,1,,61.374,M ,,WGT-X -HS-2451,Widget specification HS-2451,,,
+396,HS-3479,11,,,Widget HS-3479,55.3801,1,A,500,375,124.73,,A,,1,,74.838,H ,,WGT-X -HS-3479,Widget specification HS-3479,,,
+397,HB-M243,4,,,Widget HB-M243,17.978,1,A,500,375,40.4909,,A,,1,M ,24.2945,L ,,WGT-M -HB-M243,Widget specification HB-M243,,,
+398,HB-M243,4,,,Widget HB-M243,19.7758,1,A,500,375,44.54,,A,,1,M ,26.724,L ,,WGT-M -HB-M243,Widget specification HB-M243,,,Current
+399,HB-M763,4,,,Widget HB-M763,24.9932,1,A,500,375,56.2909,,A,,1,M ,33.7745,M ,,WGT-M -HB-M763,Widget specification HB-M763,,,
+400,HB-M763,4,,,Widget HB-M763,27.4925,1,A,500,375,61.92,,A,,1,M ,37.152,M ,,WGT-M -HB-M763,Widget specification HB-M763,,,Current
+401,HB-M918,4,,,Widget HB-M918,48.5453,1,A,500,375,109.3364,,A,,1,M ,65.6018,H ,,WGT-M -HB-M918,Widget specification HB-M918,,,
+402,HB-M918,4,,,Widget HB-M918,53.3999,1,A,500,375,120.27,,A,,1,M ,72.162,H ,,WGT-M -HB-M918,Widget specification HB-M918,,,Current
+403,HB-R504,4,,,Widget HB-R504,17.978,1,A,500,375,40.4909,,A,,1,R ,24.2945,L ,,WGT-R -HB-R504,Widget specification HB-R504,,,
+404,HB-R504,4,,,Widget HB-R504,19.7758,1,A,500,375,44.54,,A,,1,R ,26.724,L ,,WGT-R -HB-R504,Widget specification HB-R504,,,Current
+405,HB-R720,4,,,Widget HB-R720,24.9932,1,A,500,375,56.2909,,A,,1,R ,33.7745,M ,,WGT-R -HB-R720,Widget specification HB-R720,,,
+406,HB-R720,4,,,Widget HB-R720,27.4925,1,A,500,375,61.92,,A,,1,R ,37.152,M ,,WGT-R -HB-R720,Widget specification HB-R720,,,Current
+407,HB-R956,4,,,Widget HB-R956,48.5453,1,A,500,375,109.3364,,A,,1,R ,65.6018,H ,,WGT-R -HB-R956,Widget specification HB-R956,,,
+408,HB-R956,4,,,Widget HB-R956,53.3999,1,A,500,375,120.27,,A,,1,R ,72.162,H ,,WGT-R -HB-R956,Widget specification HB-R956,,,Current
+409,FR-M63B-38,12,LB ,CM ,Widget FR-M63B-38,185.8193,1,Black,500,375,348.76,38,38-40 CM,2.73,2,M ,209.256,M ,U ,WGT-M -FR-M63B-38,Widget specification FR-M63B-38,,,
+410,FW-M423,17,,,Widget FW-M423,26.9708,1,Black,500,375,60.745,,A,,1,M ,36.447,L ,,WGT-M -FW-M423,Widget specification FW-M423,,,
+411,FW-M762,17,,,Widget FW-M762,92.8071,1,Black,500,375,209.025,,A,,1,M ,125.415,M ,,WGT-M -FW-M762,Widget specification FW-M762,,,
+412,FW-M928,17,,,Widget FW-M928,133.2955,1,Black,500,375,300.215,,A,,1,M ,180.129,H ,,WGT-M -FW-M928,Widget specification FW-M928,,,
+413,FW-R623,17,G  ,,Widget FW-R623,37.9909,1,Black,500,375,85.565,,A,900,1,R ,51.339,L ,,WGT-R -FW-R623,Widget specification FW-R623,,,
+414,FW-R762,17,G  ,,Widget FW-R762,110.2829,1,Black,500,375,248.385,,A,850,1,R ,149.031,M ,,WGT-R -FW-R762,Widget specification FW-R762,,,
+415,FW-R820,17,G  ,,Widget FW-R820,146.5466,1,Black,500,375,330.06,,A,650,1,R ,198.036,H ,,WGT-R -FW-R820,Widget specification FW-R820,,,
+416,FW-T905,17,,,Widget FW-T905,96.7964,1,Black,500,375,218.01,,A,,1,T ,130.806,,,WGT-T -FW-T905,Widget specification FW-T905,,,
+417,FR-R72Y-38,14,LB ,CM ,Widget FR-R72Y-38,300.1188,1,Yellow,500,375,540.7545,38,38-40 CM,2.18,2,R ,324.4527,M ,W ,WGT-R -FR-R72Y-38,Widget specification FR-R72Y-38,,,
+418,FR-R72Y-38,14,LB ,CM ,Widget FR-R72Y-38,360.9428,1,Yellow,500,375,594.83,38,38-40 CM,2.18,2,R ,356.898,M ,W ,WGT-R -FR-R72Y-38,Widget specification FR-R72Y-38,,,Current
+419,RW-M423,17,,,Widget RW-M423,38.9588,1,Black,500,375,87.745,,A,,1,M ,52.647,L ,,WGT-M -RW-M423,Widget specification RW-M423,,,
+420,RW-M762,17,,,Widget RW-M762,104.7951,1,Black,500,375,236.025,,A,,1,M ,141.615,M ,,WGT-M -RW-M762,Widget specification RW-M762,,,
+421,RW-M928,17,,,Widget RW-M928,145.2835,1,Black,500,375,327.215,,A,,1,M ,196.329,H ,,WGT-M -RW-M928,Widget specification RW-M928,,,
+422,RW-R623,17,G  ,,Widget RW-R623,49.9789,1,Black,500,375,112.565,,A,1050,1,R ,67.539,L ,,WGT-R -RW-R623,Widget specification RW-R623,,,
+423,RW-R762,17,G  ,,Widget RW-R762,122.2709,1,Black,500,375,275.385,,A,1000,1,R ,165.231,M ,,WGT-R -RW-R762,Widget specification RW-R762,,,
+424,RW-R820,17,G  ,,Widget RW-R820,158.5346,1,Black,500,375,357.06,,A,890,1,R ,214.236,H ,,WGT-R -RW-R820,Widget specification RW-R820,,,
+425,RW-T905,17,,,Widget RW-T905,108.7844,1,Black,500,375,245.01,,A,,1,T ,147.006,,,WGT-T -RW-T905,Widget specification RW-T905,,,
+426,FR-M63B-40,12,LB ,CM ,Widget FR-M63B-40,185.8193,1,Black,500,375,348.76,40,38-40 CM,2.77,1,M ,209.256,M ,U ,WGT-M -FR-M63B-40,Widget specification FR-M63B-40,,,
+427,FR-M63B-44,12,LB ,CM ,Widget FR-M63B-44,185.8193,1,Black,500,375,348.76,44,42-46 CM,2.81,1,M ,209.256,M ,U ,WGT-M -FR-M63B-44,Widget specification FR-M63B-44,,,
+428,FR-M63B-48,12,LB ,CM ,Widget FR-M63B-48,185.8193,1,Black,500,375,348.76,48,48-52 CM,2.85,1,M ,209.256,M ,U ,WGT-M -FR-M63B-48,Widget specification FR-M63B-48,,,
+429,FR-R72Y-40,14,LB ,CM ,Widget FR-R72Y-40,300.1188,1,Yellow,500,375,540.7545,40,38-40 CM,2.22,1,R ,324.4527,M ,W ,WGT-R -FR-R72Y-40,Widget specification FR-R72Y-40,,,
+430,FR-R72Y-40,14,LB ,CM ,Widget FR-R72Y-40,360.9428,1,Yellow,500,375,594.83,40,38-40 CM,2.22,1,R ,356.898,M ,W ,WGT-R -FR-R72Y-40,Widget specification FR-R72Y-40,,,Current
+431,FR-R72Y-42,14,LB ,CM ,Widget FR-R72Y-42,300.1188,1,Yellow,500,375,540.7545,42,42-46 CM,2.26,1,R ,324.4527,M ,W ,WGT-R -FR-R72Y-42,Widget specification FR-R72Y-42,,,
+432,FR-R72Y-42,14,LB ,CM ,Widget FR-R72Y-42,360.9428,1,Yellow,500,375,594.83,42,42-46 CM,2.26,1,R ,356.898,M ,W ,WGT-R -FR-R72Y-42,Widget specification FR-R72Y-42,,,Current
+433,FR-R72Y-44,14,LB ,CM ,Widget FR-R72Y-44,300.1188,1,Yellow,500,375,540.7545,44,42-46 CM,2.3,1,R ,324.4527,M ,W ,WGT-R -FR-R72Y-44,Widget specification FR-R72Y-44,,,
+434,FR-R72Y-44,14,LB ,CM ,Widget FR-R72Y-44,360.9428,1,Yellow,500,375,594.83,44,42-46 CM,2.3,1,R ,356.898,M ,W ,WGT-R -FR-R72Y-44,Widget specification FR-R72Y-44,,,Current
+435,FR-R72Y-48,14,LB ,CM ,Widget FR-R72Y-48,300.1188,1,Yellow,500,375,540.7545,48,48-52 CM,2.34,1,R ,324.4527,M ,W ,WGT-R -FR-R72Y-48,Widget specification FR-R72Y-48,,,
+436,FR-R72Y-48,14,LB ,CM ,Widget FR-R72Y-48,360.9428,1,Yellow,500,375,594.83,48,48-52 CM,2.34,1,R ,356.898,M ,W ,WGT-R -FR-R72Y-48,Widget specification FR-R72Y-48,,,Current
+437,FR-R92B-62,14,LB ,CM ,Widget FR-R92B-62,722.2568,1,Black,500,375,1301.3636,62,60-62 CM,2.3,1,R ,780.8182,H ,U ,WGT-R -FR-R92B-62,Widget specification FR-R92B-62,,,
+438,FR-R92B-62,14,LB ,CM ,Widget FR-R92B-62,868.6342,1,Black,500,375,1431.5,62,60-62 CM,2.3,1,R ,858.9,H ,U ,WGT-R -FR-R92B-62,Widget specification FR-R92B-62,,,Current
+439,FR-R92B-44,14,LB ,CM ,Widget FR-R92B-44,722.2568,1,Black,500,375,1301.3636,44,42-46 CM,2.12,1,R ,780.8182,H ,U ,WGT-R -FR-R92B-44,Widget specification FR-R92B-44,,,
+440,FR-R92B-44,14,LB ,CM ,Widget FR-R92B-44,868.6342,1,Black,500,375,1431.5,44,42-46 CM,2.12,1,R ,858.9,H ,U ,WGT-R -FR-R92B-44,Widget specification FR-R92B-44,,,Current
+441,FR-R92B-48,14,LB ,CM ,Widget FR-R92B-48,722.2568,1,Black,500,375,1301.3636,48,48-52 CM,2.16,1,R ,780.8182,H ,U ,WGT-R -FR-R92B-48,Widget specification FR-R92B-48,,,
+442,FR-R92B-48,14,LB ,CM ,Widget FR-R92B-48,868.6342,1,Black,500,375,1431.5,48,48-52 CM,2.16,1,R ,858.9,H ,U ,WGT-R -FR-R92B-48,Widget specification FR-R92B-48,,,Current
+443,FR-R92B-52,14,LB ,CM ,Widget FR-R92B-52,722.2568,1,Black,500,375,1301.3636,52,48-52 CM,2.2,1,R ,780.8182,H ,U ,WGT-R -FR-R92B-52,Widget specification FR-R92B-52,,,
+444,FR-R92B-52,14,LB ,CM ,Widget FR-R92B-52,868.6342,1,Black,500,375,1431.5,52,48-52 CM,2.2,1,R ,858.9,H ,U ,WGT-R -FR-R92B-52,Widget specification FR-R92B-52,,,Current
+445,SH-M897-S,22,,,Widget SH-M897-S,24.7459,1,Black,4,3,59.99,S,S,,0,S ,35.994,,M ,WGT-S -SH-M897-S,Widget specification SH-M897-S,,,
+446,PA-T100,35,,,Widget PA-T100,51.5625,1,Grey,4,3,125,,A,,0,T ,75,,,WGT-T -PA-T100,Widget specification PA-T100,,,
+447,LO-C100,34,,,Widget LO-C100,10.3125,1,A,4,3,25,,A,,0,S ,15,,,WGT-S -LO-C100,Widget specification LO-C100,,,
+448,PU-0452,36,,,Widget PU-0452,8.2459,1,A,4,3,19.99,,A,,0,S ,11.994,,,WGT-S -PU-0452,Widget specification PU-0452,,,
+449,PU-M044,36,,,Widget PU-M044,10.3084,1,A,4,3,24.99,,A,,0,M ,14.994,,,WGT-M -PU-M044,Widget specification PU-M044,,,
+450,LT-T990,33,,,Widget LT-T990,5.7709,1,A,4,3,13.99,,A,,0,R ,8.394,,,WGT-R -LT-T990,Widget specification LT-T990,,,
+451,LT-H902,33,,,Widget LT-H902,14.4334,1,A,4,3,34.99,,A,,0,R ,20.994,,,WGT-R -LT-H902,Widget specification LT-H902,,,
+452,LT-H903,33,,,Widget LT-H903,18.5584,1,A,4,3,44.99,,A,,0,R ,26.994,,,WGT-R -LT-H903,Widget specification LT-H903,,,
+453,SH-M897-M,22,,,Widget SH-M897-M,24.7459,1,Black,4,3,59.99,M,M,,0,S ,35.994,,M ,WGT-S -SH-M897-M,Widget specification SH-M897-M,,,
+454,SH-M897-L,22,,,Widget SH-M897-L,24.7459,1,Black,4,3,59.99,L,L,,0,S ,35.994,,M ,WGT-S -SH-M897-L,Widget specification SH-M897-L,,,
+455,SH-M897-X,22,,,Widget SH-M897-X,24.7459,1,Black,4,3,59.99,XL,XL,,0,S ,35.994,,M ,WGT-S -SH-M897-X,Widget specification SH-M897-X,,,
+456,TG-W091-S,24,,,Widget TG-W091-S,30.9334,1,Black,4,3,74.99,S,S,,0,S ,44.994,,W ,WGT-S -TG-W091-S,Widget specification TG-W091-S,,,
+457,TG-W091-M,24,,,Widget TG-W091-M,30.9334,1,Black,4,3,74.99,M,M,,0,S ,44.994,,W ,WGT-S -TG-W091-M,Widget specification TG-W091-M,,,
+458,TG-W091-L,24,,,Widget TG-W091-L,30.9334,1,Black,4,3,74.99,L,L,,0,S ,44.994,,W ,WGT-S -TG-W091-L,Widget specification TG-W091-L,,,
+459,SB-M891-S,18,,,Widget SB-M891-S,37.1209,1,Multi,4,3,89.99,S,S,,0,S ,53.994,,M ,WGT-S -SB-M891-S,Widget specification SB-M891-S,,,
+460,SB-M891-M,18,,,Widget SB-M891-M,37.1209,1,Multi,4,3,89.99,M,M,,0,S ,53.994,,M ,WGT-S -SB-M891-M,Widget specification SB-M891-M,,,
+461,SB-M891-L,18,,,Widget SB-M891-L,37.1209,1,Multi,4,3,89.99,L,L,,0,S ,53.994,,M ,WGT-S -SB-M891-L,Widget specification SB-M891-L,,,
+462,GL-H102-S,20,,,Widget GL-H102-S,9.7136,1,Black,4,3,23.5481,S,S,,0,S ,14.1289,,U ,WGT-S -GL-H102-S,Widget specification GL-H102-S,,,
+463,GL-H102-S,20,,,Widget GL-H102-S,9.1593,1,Black,4,3,24.49,S,S,,0,S ,14.694,,U ,WGT-S -GL-H102-S,Widget specification GL-H102-S,,,Current
+464,GL-H102-M,20,,,Widget GL-H102-M,9.7136,1,Black,4,3,23.5481,M,M,,0,S ,14.1289,,U ,WGT-S -GL-H102-M,Widget specification GL-H102-M,,,
+465,GL-H102-M,20,,,Widget GL-H102-M,9.1593,1,Black,4,3,24.49,M,M,,0,S ,14.694,,U ,WGT-S -GL-H102-M,Widget specification GL-H102-M,,,Current
+466,GL-H102-L,20,,,Widget GL-H102-L,9.7136,1,Black,4,3,23.5481,L,L,,0,S ,14.1289,,U ,WGT-S -GL-H102-L,Widget specification GL-H102-L,,,
+467,GL-H102-L,20,,,Widget GL-H102-L,9.1593,1,Black,4,3,24.49,L,L,,0,S ,14.694,,U ,WGT-S -GL-H102-L,Widget specification GL-H102-L,,,Current
+468,GL-F110-S,20,,,Widget GL-F110-S,15.6709,1,Black,4,3,37.99,S,S,,0,M ,22.794,,U ,WGT-M -GL-F110-S,Widget specification GL-F110-S,,,
+469,GL-F110-M,20,,,Widget GL-F110-M,15.6709,1,Black,4,3,37.99,M,M,,0,M ,22.794,,U ,WGT-M -GL-F110-M,Widget specification GL-F110-M,,,
+470,GL-F110-L,20,,,Widget GL-F110-L,15.6709,1,Black,4,3,37.99,L,L,,0,M ,22.794,,U ,WGT-M -GL-F110-L,Widget specification GL-F110-L,,,
+471,VE-C304-S,25,,,Widget VE-C304-S,23.749,1,Blue,4,3,63.5,S,S,,0,S ,38.1,,U ,WGT-S -VE-C304-S,Widget specification VE-C304-S,,,Current
+472,VE-C304-M,25,,,Widget VE-C304-M,23.749,1,Blue,4,3,63.5,M,M,,0,S ,38.1,,U ,WGT-S -VE-C304-M,Widget specification VE-C304-M,,,Current
+473,VE-C304-L,25,,,Widget VE-C304-L,23.749,1,Blue,4,3,63.5,L,L,,0,S ,38.1,,U ,WGT-S -VE-C304-L,Widget specification VE-C304-L,,,Current
+474,SH-W890-S,22,,,Widget SH-W890-S,26.1763,1,Black,4,3,69.99,S,S,,0,M ,41.994,,W ,WGT-M -SH-W890-S,Widget specification SH-W890-S,,,Current
+475,SH-W890-M,22,,,Widget SH-W890-M,26.1763,1,Black,4,3,69.99,M,M,,0,M ,41.994,,W ,WGT-M -SH-W890-M,Widget specification SH-W890-M,,,Current
+476,SH-W890-L,22,,,Widget SH-W890-L,26.1763,1,Black,4,3,69.99,L,L,,0,M ,41.994,,W ,WGT-M -SH-W890-L,Widget specification SH-W890-L,,,Current
+477,WB-H098,28,,,Widget WB-H098,1.8663,1,A,4,3,4.99,,A,,0,S ,2.994,,,WGT-S -WB-H098,Widget specification WB-H098,,,Current
+478,BC-M005,28,,,Widget BC-M005,3.7363,1,A,4,3,9.99,,A,,0,M ,5.994,,,WGT-M -BC-M005,Widget specification BC-M005,,,Current
+479,BC-R205,28,,,Widget BC-R205,3.3623,1,A,4,3,8.99,,A,,0,R ,5.394,,,WGT-R -BC-R205,Widget specification BC-R205,,,Current
+480,PK-7098,37,,,Widget PK-7098,0.8565,1,A,4,3,2.29,,A,,0,S ,1.374,,,WGT-S -PK-7098,Widget specification PK-7098,,,Current
+481,SO-R809-M,23,,,Widget SO-R809-M,3.3623,1,White,4,3,8.99,M,M,,0,R ,5.394,,U ,WGT-R -SO-R809-M,Widget specification SO-R809-M,,,Current
+482,SO-R809-L,23,,,Widget SO-R809-L,3.3623,1,White,4,3,8.99,L,L,,0,R ,5.394,,U ,WGT-R -SO-R809-L,Widget specification SO-R809-L,,,Current
+483,RA-H123,26,,,Widget RA-H123,44.88,1,A,4,3,120,,A,,0,S ,72,,,WGT-S -RA-H123,Widget specification RA-H123,,,Current
+484,CL-9009,29,,,Widget CL-9009,2.9733,1,A,4,3,7.95,,A,,0,S ,4.77,,,WGT-S -CL-9009,Widget specification CL-9009,,,Current
+485,FE-6654,30,,,Widget FE-6654,8.2205,1,A,4,3,21.98,,A,,0,M ,13.188,,,WGT-M -FE-6654,Widget specification FE-6654,,,Current
+486,ST-1401,27,,,Widget ST-1401,59.466,1,A,4,3,159,,A,,0,M ,95.4,,,WGT-M -ST-1401,Widget specification ST-1401,,,Current
+487,HY-1023-70,32,,,Widget HY-1023-70,20.5663,1,Silver,4,3,54.99,70,70,,0,S ,32.994,,,WGT-S -HY-1023-70,Widget specification HY-1023-70,,,Current
+488,SJ-0194-S,21,,,Widget SJ-0194-S,41.5723,1,Yellow,4,3,53.99,S,S,,0,S ,32.394,,U ,WGT-S -SJ-0194-S,Widget specification SJ-0194-S,,,Current
+489,SJ-0194-M,21,,,Widget SJ-0194-M,41.5723,1,Yellow,4,3,53.99,M,M,,0,S ,32.394,,U ,WGT-S -SJ-0194-M,Widget specification SJ-0194-M,,,Current
+490,SJ-0194-L,21,,,Widget SJ-0194-L,41.5723,1,Yellow,4,3,53.99,L,L,,0,S ,32.394,,U ,WGT-S -SJ-0194-L,Widget specification SJ-0194-L,,,Current
+491,SJ-0194-X,21,,,Widget SJ-0194-X,41.5723,1,Yellow,4,3,53.99,XL,XL,,0,S ,32.394,,U ,WGT-S -SJ-0194-X,Widget specification SJ-0194-X,,,Current
+492,FR-T98Y-60,16,LB ,CM ,Widget FR-T98Y-60,601.7437,1,Yellow,500,375,1003.91,60,60-62 CM,3.08,1,T ,602.346,H ,U ,WGT-T -FR-T98Y-60,Widget specification FR-T98Y-60,,,Current
+493,FR-T67Y-62,16,LB ,CM ,Widget FR-T67Y-62,199.8519,1,Yellow,500,375,333.42,62,60-62 CM,3.2,1,T ,200.052,L ,U ,WGT-T -FR-T67Y-62,Widget specification FR-T67Y-62,,,Current
+494,FR-T98Y-46,16,LB ,CM ,Widget FR-T98Y-46,601.7437,1,Yellow,500,375,1003.91,46,42-46 CM,2.96,1,T ,602.346,H ,U ,WGT-T -FR-T98Y-46,Widget specification FR-T98Y-46,,,Current
+495,FR-T98Y-50,16,LB ,CM ,Widget FR-T98Y-50,601.7437,1,Yellow,500,375,1003.91,50,48-52 CM,3,1,T ,602.346,H ,U ,WGT-T -FR-T98Y-50,Widget specification FR-T98Y-50,,,Current
+496,FR-T98Y-54,16,LB ,CM ,Widget FR-T98Y-54,601.7437,1,Yellow,500,375,1003.91,54,54-58 CM,3.04,1,T ,602.346,H ,U ,WGT-T -FR-T98Y-54,Widget specification FR-T98Y-54,,,Current
+497,FR-T98U-46,16,LB ,CM ,Widget FR-T98U-46,601.7437,1,Blue,500,375,1003.91,46,42-46 CM,2.96,1,T ,602.346,H ,U ,WGT-T -FR-T98U-46,Widget specification FR-T98U-46,,,Current
+498,FR-T98U-50,16,LB ,CM ,Widget FR-T98U-50,601.7437,1,Blue,500,375,1003.91,50,48-52 CM,3,1,T ,602.346,H ,U ,WGT-T -FR-T98U-50,Widget specification FR-T98U-50,,,Current
+499,FR-T98U-54,16,LB ,CM ,Widget FR-T98U-54,601.7437,1,Blue,500,375,1003.91,54,54-58 CM,3.04,1,T ,602.346,H ,U ,WGT-T -FR-T98U-54,Widget specification FR-T98U-54,,,Current
+500,FR-T98U-60,16,LB ,CM ,Widget FR-T98U-60,601.7437,1,Blue,500,375,1003.91,60,60-62 CM,3.08,1,T ,602.346,H ,U ,WGT-T -FR-T98U-60,Widget specification FR-T98U-60,,,Current
+501,RD-2308,9,G  ,,Widget RD-2308,53.9282,1,Silver,500,375,121.46,,A,215,1,,72.876,,,WGT-X -RD-2308,Widget specification RD-2308,,,Current
+502,FR-T67U-50,16,LB ,CM ,Widget FR-T67U-50,199.8519,1,Blue,500,375,333.42,50,48-52 CM,3.1,1,T ,200.052,L ,U ,WGT-T -FR-T67U-50,Widget specification FR-T67U-50,,,Current
+503,FR-T67U-54,16,LB ,CM ,Widget FR-T67U-54,199.8519,1,Blue,500,375,333.42,54,54-58 CM,3.14,1,T ,200.052,L ,U ,WGT-T -FR-T67U-54,Widget specification FR-T67U-54,,,Current
+504,FR-T67U-58,16,LB ,CM ,Widget FR-T67U-58,199.8519,1,Blue,500,375,333.42,58,54-58 CM,3.16,1,T ,200.052,L ,U ,WGT-T -FR-T67U-58,Widget specification FR-T67U-58,,,Current
+505,FR-T67U-62,16,LB ,CM ,Widget FR-T67U-62,199.8519,1,Blue,500,375,333.42,62,60-62 CM,3.2,1,T ,200.052,L ,U ,WGT-T -FR-T67U-62,Widget specification FR-T67U-62,,,Current
+506,FR-T67Y-44,16,LB ,CM ,Widget FR-T67Y-44,199.8519,1,Yellow,500,375,333.42,44,42-46 CM,3.02,1,T ,200.052,L ,U ,WGT-T -FR-T67Y-44,Widget specification FR-T67Y-44,,,Current
+507,FR-T67Y-50,16,LB ,CM ,Widget FR-T67Y-50,199.8519,1,Yellow,500,375,333.42,50,48-52 CM,3.1,1,T ,200.052,L ,U ,WGT-T -FR-T67Y-50,Widget specification FR-T67Y-50,,,Current
+508,FR-T67Y-54,16,LB ,CM ,Widget FR-T67Y-54,199.8519,1,Yellow,500,375,333.42,54,54-58 CM,3.14,1,T ,200.052,L ,U ,WGT-T -FR-T67Y-54,Widget specification FR-T67Y-54,,,Current
+509,FR-T67Y-58,16,LB ,CM ,Widget FR-T67Y-58,199.8519,1,Yellow,500,375,333.42,58,54-58 CM,3.16,1,T ,200.052,L ,U ,WGT-T -FR-T67Y-58,Widget specification FR-T67Y-58,,,Current
+510,FR-T67U-44,16,LB ,CM ,Widget FR-T67U-44,199.8519,1,Blue,500,375,333.42,44,42-46 CM,3.02,1,T ,200.052,L ,U ,WGT-T -FR-T67U-44,Widget specification FR-T67U-44,,,Current
+511,FR-M63S-40,12,LB ,CM ,Widget FR-M63S-40,199.3757,1,Silver,500,375,364.09,40,38-40 CM,2.77,1,M ,218.454,M ,W ,WGT-M -FR-M63S-40,Widget specification FR-M63S-40,,,Current
+512,FR-M63S-42,12,LB ,CM ,Widget FR-M63S-42,199.3757,1,Silver,500,375,364.09,42,42-46 CM,2.81,1,M ,218.454,M ,W ,WGT-M -FR-M63S-42,Widget specification FR-M63S-42,,,Current
+513,FR-M63S-46,12,LB ,CM ,Widget FR-M63S-46,199.3757,1,Silver,500,375,364.09,46,42-46 CM,2.85,1,M ,218.454,M ,W ,WGT-M -FR-M63S-46,Widget specification FR-M63S-46,,,Current
+514,RB-9231,6,G  ,,Widget RB-9231,47.286,1,Silver,500,375,106.5,,A,317,1,,63.9,,,WGT-X -RB-9231,Widget specification RB-9231,,,Current
+515,SE-M236,15,,,Widget SE-M236,12.0413,1,A,500,375,27.12,,A,,1,M ,16.272,L ,,WGT-M -SE-M236,Widget specification SE-M236,,,Current
+516,SE-M798,15,,,Widget SE-M798,17.3782,1,A,500,375,39.14,,A,,1,M ,23.484,M ,,WGT-M -SE-M798,Widget specification SE-M798,,,Current
+517,SE-M940,15,,,Widget SE-M940,23.3722,1,A,500,375,52.64,,A,,1,M ,31.584,H ,,WGT-M -SE-M940,Widget specification SE-M940,,,Current
+518,SE-R581,15,,,Widget SE-R581,12.0413,1,A,500,375,27.12,,A,,1,R ,16.272,L ,,WGT-R -SE-R581,Widget specification SE-R581,,,Current
+519,SE-R908,15,,,Widget SE-R908,17.3782,1,A,500,375,39.14,,A,,1,T ,23.484,M ,,WGT-T -SE-R908,Widget specification SE-R908,,,Current
+520,SE-R995,15,,,Widget SE-R995,23.3722,1,A,500,375,52.64,,A,,1,R ,31.584,H ,,WGT-R -SE-R995,Widget specification SE-R995,,,Current
+521,SE-T312,15,,,Widget SE-T312,12.0413,1,A,500,375,27.12,,A,,1,T ,16.272,L ,,WGT-T -SE-T312,Widget specification SE-T312,,,Current
+522,SE-T762,15,,,Widget SE-T762,17.3782,1,A,500,375,39.14,,A,,1,T ,23.484,M ,,WGT-T -SE-T762,Widget specification SE-T762,,,Current
+523,SE-T924,15,,,Widget SE-T924,23.3722,1,A,500,375,52.64,,A,,1,T ,31.584,H ,,WGT-T -SE-T924,Widget specification SE-T924,,,Current
+524,FR-M21S-42,12,LB ,CM ,Widget FR-M21S-42,144.5938,1,Silver,500,375,264.05,42,42-46 CM,2.92,1,M ,158.43,L ,U ,WGT-M -FR-M21S-42,Widget specification FR-M21S-42,,,Current
+525,FR-M21S-44,12,LB ,CM ,Widget FR-M21S-44,144.5938,1,Silver,500,375,264.05,44,42-46 CM,2.96,1,M ,158.43,L ,U ,WGT-M -FR-M21S-44,Widget specification FR-M21S-44,,,Current
+526,FR-M21S-48,12,LB ,CM ,Widget FR-M21S-48,144.5938,1,Silver,500,375,264.05,48,48-52 CM,3,1,M ,158.43,L ,U ,WGT-M -FR-M21S-48,Widget specification FR-M21S-48,,,Current
+527,FR-M21S-52,12,LB ,CM ,Widget FR-M21S-52,144.5938,1,Silver,500,375,264.05,52,48-52 CM,3.04,1,M ,158.43,L ,U ,WGT-M -FR-M21S-52,Widget specification FR-M21S-52,,,Current
+528,TT-M928,37,,,Widget TT-M928,1.8663,1,A,500,375,4.99,,A,,0,M ,2.994,,,WGT-M -TT-M928,Widget specification TT-M928,,,Current
+529,TT-R982,37,,,Widget TT-R982,1.4923,1,A,500,375,3.99,,A,,0,R ,2.394,,,WGT-R -TT-R982,Widget specification TT-R982,,,Current
+530,TT-T092,37,,,Widget TT-T092,1.8663,1,A,500,375,4.99,,A,,0,T ,2.994,,,WGT-T -TT-T092,Widget specification TT-T092,,,Current
+531,FR-M21B-42,12,LB ,CM ,Widget FR-M21B-42,136.785,1,Black,500,375,249.79,42,42-46 CM,2.92,1,M ,149.874,L ,U ,WGT-M -FR-M21B-42,Widget specification FR-M21B-42,,,Current
+532,FR-M21B-44,12,LB ,CM ,Widget FR-M21B-44,136.785,1,Black,500,375,249.79,44,42-46 CM,2.96,1,M ,149.874,L ,U ,WGT-M -FR-M21B-44,Widget specification FR-M21B-44,,,Current
+533,FR-M21B-48,12,LB ,CM ,Widget FR-M21B-48,136.785,1,Black,500,375,249.79,48,48-52 CM,3,1,M ,149.874,L ,U ,WGT-M -FR-M21B-48,Widget specification FR-M21B-48,,,Current
+534,FR-M21B-52,12,LB ,CM ,Widget FR-M21B-52,136.785,1,Black,500,375,249.79,52,48-52 CM,3.04,1,M ,149.874,L ,U ,WGT-M -FR-M21B-52,Widget specification FR-M21B-52,,,Current
+535,TI-M267,37,,,Widget TI-M267,9.3463,1,A,500,375,24.99,,A,,0,M ,14.994,L ,,WGT-M -TI-M267,Widget specification TI-M267,,,Current
+536,TI-M602,37,,,Widget TI-M602,11.2163,1,A,500,375,29.99,,A,,0,M ,17.994,M ,,WGT-M -TI-M602,Widget specification TI-M602,,,Current
+537,TI-M823,37,,,Widget TI-M823,13.09,1,A,500,375,35,,A,,0,M ,21,H ,,WGT-M -TI-M823,Widget specification TI-M823,,,Current
+538,TI-R092,37,,,Widget TI-R092,8.0373,1,A,500,375,21.49,,A,,0,R ,12.894,L ,,WGT-R -TI-R092,Widget specification TI-R092,,,Current
+539,TI-R628,37,,,Widget TI-R628,9.3463,1,A,500,375,24.99,,A,,0,R ,14.994,M ,,WGT-R -TI-R628,Widget specification TI-R628,,,Current
+540,TI-R982,37,,,Widget TI-R982,12.1924,1,A,500,375,32.6,,A,,0,R ,19.56,H ,,WGT-R -TI-R982,Widget specification TI-R982,,,Current
+541,TI-T723,37,,,Widget TI-T723,10.8423,1,A,500,375,28.99,,A,,0,T ,17.394,,,WGT-T -TI-T723,Widget specification TI-T723,,,Current
+542,PD-M282,13,G  ,,Widget PD-M282,17.9776,1,Silver/Black,500,375,40.49,,A,218,1,M ,24.294,L ,,WGT-M -PD-M282,Widget specification PD-M282,,,Current
+543,PD-M340,13,G  ,,Widget PD-M340,27.568,1,Silver/Black,500,375,62.09,,A,215,1,M ,37.254,M ,,WGT-M -PD-M340,Widget specification PD-M340,,,Current
+544,PD-M562,13,G  ,,Widget PD-M562,35.9596,1,Silver/Black,500,375,80.99,,A,185,1,M ,48.594,H ,,WGT-M -PD-M562,Widget specification PD-M562,,,Current
+545,PD-R347,13,G  ,,Widget PD-R347,17.9776,1,Silver/Black,500,375,40.49,,A,189,1,R ,24.294,L ,,WGT-R -PD-R347,Widget specification PD-R347,,,Current
+546,PD-R563,13,G  ,,Widget PD-R563,27.568,1,Silver/Black,500,375,62.09,,A,168,1,R ,37.254,M ,,WGT-R -PD-R563,Widget specification PD-R563,,,Current
+547,PD-R853,13,G  ,,Widget PD-R853,35.9596,1,Silver/Black,500,375,80.99,,A,149,1,R ,48.594,H ,,WGT-R -PD-R853,Widget specification PD-R853,,,Current
+548,PD-T852,13,,,Widget PD-T852,35.9596,1,Silver/Black,500,375,80.99,,A,,1,T ,48.594,,,WGT-T -PD-T852,Widget specification PD-T852,,,Current
+549,FR-M63S-38,12,LB ,CM ,Widget FR-M63S-38,199.3757,1,Silver,500,375,364.09,38,38-40 CM,2.73,2,M ,218.454,M ,W ,WGT-M -FR-M63S-38,Widget specification FR-M63S-38,,,Current
+550,FR-M21B-40,12,LB ,CM ,Widget FR-M21B-40,136.785,1,Black,500,375,249.79,40,38-40 CM,2.88,2,M ,149.874,L ,U ,WGT-M -FR-M21B-40,Widget specification FR-M21B-40,,,Current
+551,FR-M21S-40,12,LB ,CM ,Widget FR-M21S-40,144.5938,1,Silver,500,375,264.05,40,38-40 CM,2.88,2,M ,158.43,L ,U ,WGT-M -FR-M21S-40,Widget specification FR-M21S-40,,,Current
+552,FD-2342,9,G  ,,Widget FD-2342,40.6216,1,Silver,500,375,91.49,,A,88,1,,54.894,,,WGT-X -FD-2342,Widget specification FD-2342,,,Current
+553,HB-T721,4,,,Widget HB-T721,20.464,1,A,500,375,46.09,,A,,1,T ,27.654,L ,,WGT-T -HB-T721,Widget specification HB-T721,,,Current
+554,HB-T928,4,,,Widget HB-T928,40.6571,1,A,500,375,91.57,,A,,1,T ,54.942,H ,,WGT-T -HB-T928,Widget specification HB-T928,,,Current
+555,FB-9873,6,G  ,,Widget FB-9873,47.286,1,Silver,500,375,106.5,,A,317,1,,63.9,,,WGT-X -FB-9873,Widget specification FB-9873,,,Current
+556,CS-4759,8,G  ,,Widget CS-4759,77.9176,1,Black,500,375,175.49,,A,600,1,,105.294,L ,,WGT-X -CS-4759,Widget specification CS-4759,,,Current
+557,CS-6583,8,G  ,,Widget CS-6583,113.8816,1,Black,500,375,256.49,,A,635,1,,153.894,M ,,WGT-X -CS-6583,Widget specification CS-6583,,,Current
+558,CS-9183,8,G  ,,Widget CS-9183,179.8156,1,Black,500,375,404.99,,A,575,1,,242.994,H ,,WGT-X -CS-9183,Widget specification CS-9183,,,Current
+559,CH-0234,7,,,Widget CH-0234,8.9866,1,Silver,500,375,20.24,,A,,1,,12.144,,,WGT-X -CH-0234,Widget specification CH-0234,,,Current
+560,BK-T44U-60,3,LB ,CM ,Widget BK-T44U-60,755.1508,1,Blue,100,75,1214.85,60,60-62 CM,27.9,4,T ,728.91,M ,U ,WGT-T -BK-T44U-60,Widget specification BK-T44U-60,,,Current
+561,BK-T79Y-46,3,LB ,CM ,Widget BK-T79Y-46,1481.9379,1,Yellow,100,75,2384.07,46,42-46 CM,25.13,4,T ,1430.442,H ,U ,WGT-T -BK-T79Y-46,Widget specification BK-T79Y-46,,,Current
+562,BK-T79Y-50,3,LB ,CM ,Widget BK-T79Y-50,1481.9379,1,Yellow,100,75,2384.07,50,48-52 CM,25.42,4,T ,1430.442,H ,U ,WGT-T -BK-T79Y-50,Widget specification BK-T79Y-50,,,Current
+563,BK-T79Y-54,3,LB ,CM ,Widget BK-T79Y-54,1481.9379,1,Yellow,100,75,2384.07,54,54-58 CM,25.68,4,T ,1430.442,H ,U ,WGT-T -BK-T79Y-54,Widget specification BK-T79Y-54,,,Current
+564,BK-T79Y-60,3,LB ,CM ,Widget BK-T79Y-60,1481.9379,1,Yellow,100,75,2384.07,60,60-62 CM,25.9,4,T ,1430.442,H ,U ,WGT-T -BK-T79Y-60,Widget specification BK-T79Y-60,,,Current
+565,BK-T18U-54,3,LB ,CM ,Widget BK-T18U-54,461.4448,1,Blue,100,75,742.35,54,54-58 CM,29.68,4,T ,445.41,L ,U ,WGT-T -BK-T18U-54,Widget specification BK-T18U-54,,,Current
+566,BK-T18U-58,3,LB ,CM ,Widget BK-T18U-58,461.4448,1,Blue,100,75,742.35,58,54-58 CM,29.9,4,T ,445.41,L ,U ,WGT-T -BK-T18U-58,Widget specification BK-T18U-58,,,Current
+567,BK-T18U-62,3,LB ,CM ,Widget BK-T18U-62,461.4448,1,Blue,100,75,742.35,62,60-62 CM,30,4,T ,445.41,L ,U ,WGT-T -BK-T18U-62,Widget specification BK-T18U-62,,,Current
+568,BK-T18Y-44,3,LB ,CM ,Widget BK-T18Y-44,461.4448,1,Yellow,100,75,742.35,44,42-46 CM,28.77,4,T ,445.41,L ,U ,WGT-T -BK-T18Y-44,Widget specification BK-T18Y-44,,,Current
+569,BK-T18Y-50,3,LB ,CM ,Widget BK-T18Y-50,461.4448,1,Yellow,100,75,742.35,50,48-52 CM,29.13,4,T ,445.41,L ,U ,WGT-T -BK-T18Y-50,Widget specification BK-T18Y-50,,,Current
+570,BK-T18Y-54,3,LB ,CM ,Widget BK-T18Y-54,461.4448,1,Yellow,100,75,742.35,54,54-58 CM,29.42,4,T ,445.41,L ,U ,WGT-T -BK-T18Y-54,Widget specification BK-T18Y-54,,,Current
+571,BK-T18Y-58,3,LB ,CM ,Widget BK-T18Y-58,461.4448,1,Yellow,100,75,742.35,58,54-58 CM,29.79,4,T ,445.41,L ,U ,WGT-T -BK-T18Y-58,Widget specification BK-T18Y-58,,,Current
+572,BK-T18Y-62,3,LB ,CM ,Widget BK-T18Y-62,461.4448,1,Yellow,100,75,742.35,62,60-62 CM,30,4,T ,445.41,L ,U ,WGT-T -BK-T18Y-62,Widget specification BK-T18Y-62,,,Current
+573,BK-T79U-46,3,LB ,CM ,Widget BK-T79U-46,1481.9379,1,Blue,100,75,2384.07,46,42-46 CM,25.13,4,T ,1430.442,H ,U ,WGT-T -BK-T79U-46,Widget specification BK-T79U-46,,,Current
+574,BK-T79U-50,3,LB ,CM ,Widget BK-T79U-50,1481.9379,1,Blue,100,75,2384.07,50,48-52 CM,25.42,4,T ,1430.442,H ,U ,WGT-T -BK-T79U-50,Widget specification BK-T79U-50,,,Current
+575,BK-T79U-54,3,LB ,CM ,Widget BK-T79U-54,1481.9379,1,Blue,100,75,2384.07,54,54-58 CM,25.68,4,T ,1430.442,H ,U ,WGT-T -BK-T79U-54,Widget specification BK-T79U-54,,,Current
+576,BK-T79U-60,3,LB ,CM ,Widget BK-T79U-60,1481.9379,1,Blue,100,75,2384.07,60,60-62 CM,25.9,4,T ,1430.442,H ,U ,WGT-T -BK-T79U-60,Widget specification BK-T79U-60,,,Current
+577,BK-T44U-46,3,LB ,CM ,Widget BK-T44U-46,755.1508,1,Blue,100,75,1214.85,46,42-46 CM,27.13,4,T ,728.91,M ,U ,WGT-T -BK-T44U-46,Widget specification BK-T44U-46,,,Current
+578,BK-T44U-50,3,LB ,CM ,Widget BK-T44U-50,755.1508,1,Blue,100,75,1214.85,50,48-52 CM,27.42,4,T ,728.91,M ,U ,WGT-T -BK-T44U-50,Widget specification BK-T44U-50,,,Current
+579,BK-T44U-54,3,LB ,CM ,Widget BK-T44U-54,755.1508,1,Blue,100,75,1214.85,54,54-58 CM,27.68,4,T ,728.91,M ,U ,WGT-T -BK-T44U-54,Widget specification BK-T44U-54,,,Current
+580,BK-R79Y-40,2,LB ,CM ,Widget BK-R79Y-40,1082.51,1,Yellow,100,75,1700.99,40,38-40 CM,15.35,4,R ,1020.594,M ,W ,WGT-R -BK-R79Y-40,Widget specification BK-R79Y-40,,,Current
+581,BK-R79Y-42,2,LB ,CM ,Widget BK-R79Y-42,1082.51,1,Yellow,100,75,1700.99,42,42-46 CM,15.77,4,R ,1020.594,M ,W ,WGT-R -BK-R79Y-42,Widget specification BK-R79Y-42,,,Current
+582,BK-R79Y-44,2,LB ,CM ,Widget BK-R79Y-44,1082.51,1,Yellow,100,75,1700.99,44,42-46 CM,16.13,4,R ,1020.594,M ,W ,WGT-R -BK-R79Y-44,Widget specification BK-R79Y-44,,,Current
+583,BK-R79Y-48,2,LB ,CM ,Widget BK-R79Y-48,1082.51,1,Yellow,100,75,1700.99,48,48-52 CM,16.42,4,R ,1020.594,M ,W ,WGT-R -BK-R79Y-48,Widget specification BK-R79Y-48,,,Current
+584,BK-R19B-58,2,LB ,CM ,Widget BK-R19B-58,343.6496,1,Black,100,75,539.99,58,54-58 CM,20.79,4,R ,323.994,L ,U ,WGT-R -BK-R19B-58,Widget specification BK-R19B-58,,,Current
+585,BK-T18U-44,3,LB ,CM ,Widget BK-T18U-44,461.4448,1,Blue,100,75,742.35,44,42-46 CM,28.77,4,T ,445.41,L ,U ,WGT-T -BK-T18U-44,Widget specification BK-T18U-44,,,Current
+586,BK-T18U-50,3,LB ,CM ,Widget BK-T18U-50,461.4448,1,Blue,100,75,742.35,50,48-52 CM,29.13,4,T ,445.41,L ,U ,WGT-T -BK-T18U-50,Widget specification BK-T18U-50,,,Current
+587,BK-M38S-38,1,LB ,CM ,Widget BK-M38S-38,419.7784,1,Silver,100,75,769.49,38,38-40 CM,26.35,4,M ,461.694,M ,W ,WGT-M -BK-M38S-38,Widget specification BK-M38S-38,,,Current
+588,BK-M38S-40,1,LB ,CM ,Widget BK-M38S-40,419.7784,1,Silver,100,75,769.49,40,38-40 CM,26.77,4,M ,461.694,M ,W ,WGT-M -BK-M38S-40,Widget specification BK-M38S-40,,,Current
+589,BK-M38S-42,1,LB ,CM ,Widget BK-M38S-42,419.7784,1,Silver,100,75,769.49,42,42-46 CM,27.13,4,M ,461.694,M ,W ,WGT-M -BK-M38S-42,Widget specification BK-M38S-42,,,Current
+590,BK-M38S-46,1,LB ,CM ,Widget BK-M38S-46,419.7784,1,Silver,100,75,769.49,46,42-46 CM,27.42,4,M ,461.694,M ,W ,WGT-M -BK-M38S-46,Widget specification BK-M38S-46,,,Current
+591,BK-M18S-40,1,LB ,CM ,Widget BK-M18S-40,308.2179,1,Silver,100,75,564.99,40,38-40 CM,27.35,4,M ,338.994,L ,U ,WGT-M -BK-M18S-40,Widget specification BK-M18S-40,,,Current
+592,BK-M18S-42,1,LB ,CM ,Widget BK-M18S-42,308.2179,1,Silver,100,75,564.99,42,42-46 CM,27.77,4,M ,338.994,L ,U ,WGT-M -BK-M18S-42,Widget specification BK-M18S-42,,,Current
+593,BK-M18S-44,1,LB ,CM ,Widget BK-M18S-44,308.2179,1,Silver,100,75,564.99,44,42-46 CM,28.13,4,M ,338.994,L ,U ,WGT-M -BK-M18S-44,Widget specification BK-M18S-44,,,Current
+594,BK-M18S-48,1,LB ,CM ,Widget BK-M18S-48,308.2179,1,Silver,100,75,564.99,48,48-52 CM,28.42,4,M ,338.994,L ,U ,WGT-M -BK-M18S-48,Widget specification BK-M18S-48,,,Current
+595,BK-M18S-52,1,LB ,CM ,Widget BK-M18S-52,308.2179,1,Silver,100,75,564.99,52,48-52 CM,28.68,4,M ,338.994,L ,U ,WGT-M -BK-M18S-52,Widget specification BK-M18S-52,,,Current
+596,BK-M18B-40,1,LB ,CM ,Widget BK-M18B-40,294.5797,1,Black,100,75,539.99,40,38-40 CM,27.35,4,M ,323.994,L ,U ,WGT-M -BK-M18B-40,Widget specification BK-M18B-40,,,Current
+597,BK-M18B-42,1,LB ,CM ,Widget BK-M18B-42,294.5797,1,Black,100,75,539.99,42,42-46 CM,27.77,4,M ,323.994,L ,U ,WGT-M -BK-M18B-42,Widget specification BK-M18B-42,,,Current
+598,BK-M18B-44,1,LB ,CM ,Widget BK-M18B-44,294.5797,1,Black,100,75,539.99,44,42-46 CM,28.13,4,M ,323.994,L ,U ,WGT-M -BK-M18B-44,Widget specification BK-M18B-44,,,Current
+599,BK-M18B-48,1,LB ,CM ,Widget BK-M18B-48,294.5797,1,Black,100,75,539.99,48,48-52 CM,28.42,4,M ,323.994,L ,U ,WGT-M -BK-M18B-48,Widget specification BK-M18B-48,,,Current
+600,BK-M18B-52,1,LB ,CM ,Widget BK-M18B-52,294.5797,1,Black,100,75,539.99,52,48-52 CM,28.68,4,M ,323.994,L ,U ,WGT-M -BK-M18B-52,Widget specification BK-M18B-52,,,Current
+601,BB-7421,5,G  ,,Widget BB-7421,23.9716,1,A,500,375,53.99,,A,223,1,,32.394,L ,,WGT-X -BB-7421,Widget specification BB-7421,,,Current
+602,BB-8107,5,G  ,,Widget BB-8107,44.9506,1,A,500,375,101.24,,A,168,1,,60.744,M ,,WGT-X -BB-8107,Widget specification BB-8107,,,Current
+603,BB-9108,5,G  ,,Widget BB-9108,53.9416,1,A,500,375,121.49,,A,170,1,,72.894,H ,,WGT-X -BB-9108,Widget specification BB-9108,,,Current
+604,BK-R19B-44,2,LB ,CM ,Widget BK-R19B-44,343.6496,1,Black,100,75,539.99,44,42-46 CM,19.77,4,R ,323.994,L ,U ,WGT-R -BK-R19B-44,Widget specification BK-R19B-44,,,Current
+605,BK-R19B-48,2,LB ,CM ,Widget BK-R19B-48,343.6496,1,Black,100,75,539.99,48,48-52 CM,20.13,4,R ,323.994,L ,U ,WGT-R -BK-R19B-48,Widget specification BK-R19B-48,,,Current
+606,BK-R19B-52,2,LB ,CM ,Widget BK-R19B-52,343.6496,1,Black,100,75,539.99,52,48-52 CM,20.42,4,R ,323.994,L ,U ,WGT-R -BK-R19B-52,Widget specification BK-R19B-52,,,Current
