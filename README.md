@@ -78,7 +78,7 @@ Com relação à modelagem, os procedimentos são os mesmos independentemente da
 
 • IAM (Identity and Access Management)
 
-Destes 5 serviços, apenas o IAM não possui custo. Embora seja possível usar uma Default VPC (como você verá durante as próximas aulas), qualquer customização poderá gerar cobranças adicionais. Armazenamento com o S3 (para colocar os arquivos que serão carregados no DW), EIP (para ter um IP exclusivo) e Cloud Watch (para monitoramento e alarmes) não são obrigatórios em uma implementação do Amazon Redshift, mas podem ajudar colaboram para tornar a experiência em nuvem bem mais profissional. A arquitetura do DW na AWS, pode ainda ser dividida em duas etapas. Primeiro a arquitetura do Cluster Amazon Redshift (conforme imagem abaixo). O número de compute nodes determina o custo do cluster e deve ser avaliado com cuidado. 
+Destes 5 serviços, apenas o IAM não possui custo. Embora seja possível usar uma Default VPC, qualquer customização poderá gerar cobranças adicionais. Armazenamento com o S3 (para colocar os arquivos que serão carregados no DW), EIP (para ter um IP exclusivo) e Cloud Watch (para monitoramento e alarmes) não são obrigatórios em uma implementação do Amazon Redshift, mas podem ajudar colaboram para tornar a experiência em nuvem bem mais profissional. A arquitetura do DW na AWS, pode ainda ser dividida em duas etapas. Primeiro a arquitetura do Cluster Amazon Redshift (conforme imagem abaixo). O número de compute nodes determina o custo do cluster e deve ser avaliado com cuidado. 
 ![13](https://github.com/pand-eX/DwNuvem/blob/main/assets/13.png)
 
 
