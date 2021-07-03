@@ -195,6 +195,6 @@ Algumas Característica do banco redshift
 - isso aqui é o trabalho final o PowerBI acabou de executar uma query direto no Amazon Redshift na nuvem e pronto apartir de agora é trabalho do usuario final coletar os insights criar as visualizações e com isso tomar as decisões. É simples o processo o Amazon Redshift fornece  realmente um poder muito grande elimina boa parte daquele trabalho manual que você tem de preparar todo o ambiente Clouding Computer é claramente o futuro.
 - No Amazon Redshift é possivel chegar algumas informações e mostrar a query e o tempo de resposta que o Powerbi levou para retornar os dados para o usuario final. Tem também o plano de execução e os graficos de performance. 
 
-![16](https://github.com/pand-eX/DwNuvem/blob/main/assets/16.png)
+
 
 
