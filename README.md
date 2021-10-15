@@ -10,7 +10,7 @@ A: Sim! Com amazon Redshift.
 
 - Você viu o trabalho que era montar um Data Warehouse no local com a Oracle. E olha que montamos um ambiente controlado um ambiente pequeno um ambiente na minha Máquina Virtual.
 
--Agora vamos para o ambiente de nuvem com alguns cliques teremos um Data Warehouse operacional com cluster com segurança e pronto para processar tetabytes de dados e um custo na maioria dos casos muito menor em comparação com os casos com premissas ou seja, não ignorar que a computação em nuvem é a evolução da área de Tecnologia.
+-Agora vamos para o ambiente de nuvem com alguns cliques teremos um Data Warehouse operacional com cluster com segurança e pronto para processar tetabytes de dados e um custo na maioria dos casos muito menor em comparação com Data Warehouse on-premise ou seja, não ignorar que a computação em nuvem é a evolução da área de Tecnologia.
 
 
 
