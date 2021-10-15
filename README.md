@@ -37,6 +37,11 @@ https://docs.aws.amazon.com/pt_br/redshift/latest/dg/cm_chap_SQLCommandRef.html
 
 ## Iniciando o projeto
 
+
+![17](https://github.com/pand-eX/DwNuvem/blob/main/assets/17.png)
+
+Essa parte do projeto não tera a inclusão do Amazon Kinises será no proxímo projeto, mas deixei ele na imagem para ficar melhor o entendimento !!!!
+
 Neste segundo projeto de implantação de data warehouse, trabalharemos com o ambiente de nuvem da Amazon e o serviço amazon redshift. Vamos implementar um cluster com 3 nós, um líder e dois nós computacionais. Nosso cluster terá apenas um banco de dados. Criaremos as tabelas FACT e DIMENSION e carregaremos apenas algumas tabelas.
 Os scripts usados no projeto são anexados e em ordem!!!
 
