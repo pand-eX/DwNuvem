@@ -33,7 +33,7 @@ https://docs.aws.amazon.com/pt_br/redshift/latest/dg/cm_chap_SQLCommandRef.html
 
 ## Atenção!!!
 
--Vamos trabalhar com a operação de data warehouse, vamos criar um Squema, carregar alguns dados e vamos executar alguma consulta é importante que você considere que a mudança de paradigma é um procedimento muito diferente não temos mais que nos preocupar com arquivos de configuração, infraestrutura com sistema operacional com instalação de software Eu simplesmente clique em uma página web permitir que o Data Warehouse defina algumas regras e conectar,  Eu carrego meus dados e começo a operação de consulta!!! Vamos!
+-Vamos trabalhar com a operação de data warehouse, vamos criar um Squema, carregar alguns dados e vamos executar alguma consulta é importante que você considere que a uma mudança de paradigma. E um procedimento muito diferente não temos mais que nos preocupar com arquivos de configuração, infraestrutura com sistema operacional com instalação de software Eu simplesmente clique em uma página web permitir que o Data Warehouse defina algumas regras e conectar,  Eu carrego meus dados e começo a operação de consulta!!! Vamos!
 
 ## Iniciando o projeto
 
